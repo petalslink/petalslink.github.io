@@ -1,0 +1,10 @@
+markdown: rdiscount
+pygments: true
+permalink: /:year/:month/:title/
+auto: true
+rdiscount:
+  extensions: [smart]
+  
+# local configuration
+url: http://localhost/websites/jekyll/petals/
+server_port: 4444

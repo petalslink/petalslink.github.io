@@ -1,0 +1,840 @@
+/* $Id: style.css,v 1.23 2007/12/17 15:05:09 goba Exp $ */
+/*
+** HTML elements
+*/
+body {
+	position:relative;
+	margin: 0px 0px 0px 0px ;
+	padding: 0;
+	color: #333333;
+	font: 76% Verdana, Arial, Helvetica, sans-serif;
+	background:url(../../img/fond_2.0.gif) no-repeat scroll center top transparent
+}
+li{
+	list-style-image:url(../../img/puce_v.png);
+}
+li li{
+	list-style-image:url(../../img/puce_o.png);
+}
+li li li{
+	list-style-image:url(../../img/puce_g.png);
+}
+li li li li{
+	list-style-image:url(../../img/puce_b.png);
+}
+tr.odd td, tr.even td {
+	margin:2em;
+	padding: 0.3em;
+	border-right: 1px solid #ccc;
+}
+h1, h2, h3, h4, h5, h6 {
+	margin-bottom: 0.5em;
+}
+h1 {
+	/*background:transparent url(../../img/h1_underline.png) no-repeat scroll 0 100%;*/
+	padding-top:5px;
+	/*padding-bottom:5px;*/
+	color:#b04d1c;
+	font-size: 1.3em;
+}
+
+h1.title {
+	background:transparent url(../../img/h1_underline.png) no-repeat scroll 0 100%;
+	padding-top:5px;
+	padding-bottom:5px;
+	color:#777777;
+	font-size: 1.5em;
+	font-weight:bold;
+}
+h2 {
+	padding-top:3px;
+	color:#492562;
+	font-size: 1.2em;
+}
+.views-field-title h2:hover{
+	text-decoration:underline;	
+	padding-top:3px;
+	color:#A37DAE;
+	font-size: 1.2em;
+}
+.views-field-nothing h2:hover{
+	text-decoration:underline;	
+	padding-top:3px;
+	color:#A37DAE;
+	font-size: 1.2em;
+}
+h3 {
+	font-weight:bold;
+	color:#e46425;
+	font-size: 1em;
+}
+h4, h5, h6 {
+	font-size: 1.1em;
+}
+p {
+	margin-top: 0.5em;
+	margin-bottom: 0.9em;
+}
+a {
+	text-decoration: none;
+	font-weight: bold;
+}
+a:link {
+	color: #783187;
+}
+a:visited {
+	color: #783187;
+}
+a:hover {
+	color: #a37dae;
+	text-decoration: underline;
+}
+fieldset {
+	border: 1px solid #ccc;
+}
+pre {
+	background-color: #eee;
+	padding: 0.75em 1.5em;
+	font-size: 12px;
+	border: 1px solid #ddd;
+}
+table {
+	font-size: 1em;
+}
+.form-item label {
+	font-size: 0.85em;
+	color: #783187;
+}
+.item-list .title {
+	font-size: 1em;
+	color: #333;
+}
+.links {
+	margin-bottom: 0;
+}
+.comment .links {
+	margin-bottom: 0;
+}
+/*
+** Page layout blocks / IDs
+*/
+#header {
+	width: 1004px;
+	margin:0px auto;
+	padding:0;
+	background-color: #ffffff;
+}
+#logo {
+	vertical-align: middle;
+	border: 0;
+}
+#logo img {
+	float: left; /* LTR */
+	padding: 0 0em;
+	border: 0;
+}
+#menu {
+	width:766px;
+	padding: 0 0 0 0; /* LTR */
+	text-align: left; /* LTR */
+	vertical-align: middle;
+	float:left;
+	background-color:#fff;
+}
+#content{
+	width: 1004px;
+	margin:0 auto;
+	}
+#footer {
+	border:none;
+	background:url(../../img/footer_8.0.gif) no-repeat scroll center 0 transparent;
+	min-width: 1000px;
+	height:199px;
+	margin:0 auto;
+	padding: 1px;
+	font-size: 0.8em;
+}
+
+/*****************************************************MAINNAV*********************************************/
+#mainNav {
+	margin:0px;
+	width:100%;
+}
+.span-22 {
+	width:100%;
+}
+
+div.span-22 {
+	float:left;
+}
+
+#mainNav .lineNav {
+    background:url("img/nav_line.gif") repeat-x scroll 0 0 transparent;
+}
+
+#mainNav ul, #mainNav ul li {
+    padding: 0px;
+    margin: 0 5px;
+    list-style: none outside;
+}
+
+#mainNav ul  {
+    padding: 0 0 0 557px;
+	margin:0 auto;
+	width:460px;
+}
+#mainNav ul li {
+    padding: 0px 0px;
+    float: left;
+}
+
+#mainNav ul li a span {
+    display: none;
+}
+
+#mainNav ul li a {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-style: italic;
+    color: #000;
+    font-weight: bold;
+    display: block;
+    height: 25px;
+}
+
+#mainNav ul li a:hover {
+    color: #666;
+}
+
+#mainNav ul li a.active {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-style: italic;
+    color: #000;
+    font-weight: bold;
+}
+
+#mainNav li.navPetalslink {
+    background: url(img/nav.png) no-repeat;
+    width: 65px;
+    height: 25px;
+}
+
+#mainNav li.navPetalslink a:hover, #mainNav li.navPetalslink a.active {
+    background: url(img/nav_over.png) no-repeat;
+    color: #666;
+}
+
+#mainNav li.navCommunity a {
+    background: url(img/nav.png) no-repeat -65px;
+    width: 70px;
+    height: 25px;
+}
+
+#mainNav li.navCommunity a:hover, #mainNav li.navCommunity a.active {
+    background: url(img/nav_over.png) no-repeat -65px;
+    color: #666;
+}
+
+#mainNav li.navForum a {
+    background: url(img/nav.png) no-repeat -135px;
+    width: 60px;
+    height: 25px;
+}
+
+#mainNav li.navForum a:hover, #mainNav li.navForum a.active {
+    background: url(img/nav_over.png) no-repeat -135px;
+    color: #666;
+}
+
+#mainNav li.navDownload a {
+    background: url(img/nav.png) no-repeat -195px;
+    width: 65px;
+    height: 25px;
+}
+
+#mainNav li.navDownload a:hover, #mainNav li.navDownload a.active {
+    background: url(img/nav_over.png) no-repeat -195px;
+    color: #666;
+}
+
+#mainNav li.navDocumentation a {
+    background: url(img/nav.png) no-repeat -260px;
+    width: 85px;
+    height: 25px;
+}
+
+#mainNav li.navDocumentation a:hover, #mainNav li.navDocumentation a.active {
+    background: url(img/nav_over.png) no-repeat -260px;
+    color: #666;
+}
+
+#mainNav li.navBlogs a {
+    background: url(img/nav.png) no-repeat -345px;
+    width: 46px;
+    height: 25px;
+}
+
+#mainNav li.navBlogs a:hover, #mainNav li.navBlogs a.active {
+    background: url(img/nav_over.png) no-repeat -345px;
+    color: #666;
+}
+/**************************FIN********************MAINNAV*********************************************/
+
+
+/*---------------------------NAVSITE TEST----------------------------*/
+#navsite ul#navsite-barre{
+	padding-left:557px;
+	margin:0 auto;
+	font-size:0.85em;
+	text-align:center;
+	width:450px;
+	height:24px;
+	overflow:hidden;
+	background-color:#fff;
+}	
+#navsite #navsite-petalslink{	
+	height:28px;
+	list-style:none;
+}
+#navsite #navsite-petalslink a{
+	color:#FFF;
+	list-style:none;
+	float:left;
+	width:107px;
+	height:28px;
+	margin-top:2px;
+}
+#navsite #navsite-petalslink a:hover{
+	text-decoration:none;
+}
+#navsite #navsite-petalslink.selected{
+	background:transparent url(../../img/onglet_1.png) no-repeat;
+	list-style:none;
+	float:left;
+	width:107px;
+	height:28px;
+}	
+#navsite #navsite-developpers{
+	list-style:none;
+}
+#navsite #navsite-developpers a{
+	color:#868686;
+	margin-top:2px;
+	float:left;
+	list-style:none;
+	width:125px;
+	height:28px;	
+}	
+#navsite #navsite-developpers a:hover{
+	text-decoration:none;
+}
+#navsite #navsite-developpers.unselected{
+	background:transparent url(../../img/onglet_2.png) repeat-x;
+	list-style:none;
+	float:left;
+	width:125px;
+	height:28px;
+}
+#navsite #navsite-forum{
+	list-style:none;
+}
+#navsite #navsite-forum a{
+	color:#868686;
+	margin-top:2px;
+	float:left;
+	list-style:none;
+	width:107px;
+	height:28px;	
+}	
+#navsite #navsite-forum a:hover{
+	text-decoration:none;
+}
+#navsite #navsite-forum.unselected{
+	background:transparent url(../../img/onglet_3.png) no-repeat;
+	list-style:none;
+	float:left;
+	width:107px;
+	height:28px;
+}
+#navsite #navsite-downloads{
+	list-style:none;
+}
+#navsite #navsite-downloads a{
+	color:#868686;
+	margin-top:2px;
+	float:left;
+	list-style:none;
+	width:107px;
+	height:28px;	
+}	
+#navsite #navsite-downloads a:hover{
+	text-decoration:none;
+}
+#navsite #navsite-downloads.unselected{
+	background:transparent url(../../img/onglet_4.png) no-repeat;
+	list-style:none;
+	float:left;
+	width:107px;
+	height:28px;
+}
+/*---------------------------EN TETE------------------------------*/
+ul.entete{
+	margin-top:5px;
+	margin-right:225px;
+	float:right;	
+}
+ul.entete li {
+	list-style:none;
+	font-size: 0.9em;
+	padding:  0 0 0em 1.2em; /* LTR */
+	color: #783187;
+	list-style:none;
+	float:left;
+	padding-left:5px;
+	border-left: 1px solid #783187;
+}
+ul.entete li:hover{
+	text-decoration:underline;
+	color: #783187;	
+}
+ul.entete li.first {
+	float:left;
+	border: none;
+}
+/*---------------------------BARRE DE RECHERCHE--------------------------*/
+.searchbox{
+	margin-top:-28px;
+	margin-left:552px;
+	margin-right:50px;
+	background:transparent url(../../img/barre_search.png) no-repeat;
+	width:170px;
+	height:20px;
+	float:left;
+	text-decoration:none;
+}
+#search .form-text{
+	padding-right:5px;
+	padding-left:5px;
+	width:121px;
+	margin-top:2px;
+	margin-left:8px;
+	float:left;
+	color:#999999;
+	border:0;
+	font-size: 0.85em;
+	text-align:left;
+}
+#search .form-submit{
+	margin-top:-2px;
+	float:left;
+}
+/*-------------------------DRAPEAUX-----------------------------*/
+.drapeaux{
+	margin-top:-7px;
+	margin-left:-8px;
+}
+/*-------------------------LANGUAGE-----------------------------*/
+#language {
+	margin-right:-45px;
+	float:right;
+	list-style:none;
+	font-size: 1em;
+	padding:0 0 0 0; /* LTR */
+	color: #666666;
+}
+#language ul{
+	margin-top:-12px;
+	float:left;
+	list-style:none;
+	font-size: 1em;
+	padding:0 0 0 2px; /* LTR */
+	color: #666666;
+}
+#language a {
+	color: #666666;
+}
+#language a:hover {
+	color: #888888;
+}
+ul.links3 li {
+	list-style:none;
+	float:left;
+	padding-right:5px;
+	border:none;
+}
+ul.links3 li.first {
+	float:left;
+	border: none;
+}
+/*--------------------------BANNIERE------------------------------------*/
+.banniere{
+	color:#e46425;
+	background-color:#ffffff;
+	width: 1004px;
+	margin:0px auto;
+	font-size:0.8em;
+	padding: 0; /* LTR */
+}
+/*--------------------------BREADCRUMB------------------------------------*/
+.breadcrumb {
+	font-size:10px;
+	color:#c1afc6;
+	margin-bottom: 20px;
+	display:none;
+}
+/*---------------------------BAS DE PAGE----------------------------*/
+#subnavlist {
+	margin:172px auto 0;
+	padding: 0.5em 1.2em 0.4em 0; /* LTR */
+	font-size: 0.9em;
+	color: #783187;
+	width:700px;
+	}
+#subnavlist a {
+	text-decoration:none;
+	font-weight: bold;
+	color: #783187;
+}
+#subnavlist a:hover {
+	color: #a37dae;
+	text-decoration:underline;
+	font-weight: bold;
+}
+ul.links li {	
+	border-left: 1px solid #783187; /* LTR */
+}
+ul.links li.first {
+	border: none;
+}
+/*-------------------------Colonne Gauche----------------------------*/
+#sidebar-left{
+	border-right: 1px solid #ccc;
+	background-color: #ffffff;
+	width: 14em;
+	padding: 10px;
+	vertical-align: top;
+}
+/*-------------------------Colonne Droite----------------------------*/
+#sidebar-right {
+	z-index:-99999;
+	width: 18em;
+	padding-left: 18px;
+	vertical-align: top;
+	background-color: #ffffff;
+}
+/**************** THEME BLOCK STANDARD ORANGE ************
+.standard{
+	background:transparent url(../../img/colonne_droite_onglet.png) no-repeat top;
+	margin-top:5px;
+	text-align:left;
+	padding:5px;
+}
+.standard h2.title{
+	margin-top:-2px;
+	margin-bottom:15px;
+	text-align:center;
+	color:#ffffff;
+	font-size: 1.3em;
+}*/
+/**************** THEME BLOCK STANDARD CENTER ORANGE *************/
+.standardcenter{
+	margin-top:5px;
+	text-align:left;
+	background:transparent url(../../img/colonne_droite_onglet.png) no-repeat top;
+	padding:5px;
+}
+.standardcenter h2.title{
+	margin-top:-2px;
+	margin-bottom:15px;
+	text-align:center;
+	color:#ffffff;
+	font-size: 1.3em;
+}
+.standardcenter h2.title:hover{
+	text-decoration:none;
+	margin-bottom:15px;
+	text-align:center;
+	color:#ffffff;
+	font-size: 1.3em;
+}
+.standardcenter .content{
+	text-align:center;
+}
+/**************** THEME BLOCK STANDARD VIOLET *************/
+.standard{
+	background:transparent url(../../img/colonne_droite_onglet_v.png) no-repeat top;
+	margin-top:5px;
+	text-align:left;
+	padding:5px;
+}
+.standard h2.title{
+	margin-top:-2px;
+	margin-bottom:15px;
+	text-align:center;
+	color:#ffffff;
+	font-size: 1.3em;
+}
+.standard h2.title:hover{
+	text-decoration:none;
+	margin-bottom:15px;
+	text-align:center;
+	color:#ffffff;
+	font-size: 1.3em;
+}
+/**************** THEME BLOCK STANDARD CENTER VIOLET ************
+.standardcenter{
+	margin-top:5px;
+	text-align:left;
+	background:transparent url(../../img/colonne_droite_onglet_v.png) no-repeat top;
+	padding:5px;
+}
+.standardcenter h2.title{
+	margin-top:-2px;
+	margin-bottom:15px;
+	text-align:center;
+	color:#ffffff;
+	font-size: 1.3em;
+}
+.standardcenter h2.title:hover{
+	text-decoration:none;
+	margin-bottom:15px;
+	text-align:center;
+	color:#ffffff;
+	font-size: 1.3em;
+}
+.standardcenter .content{
+	text-align:center;
+}
+*/
+/********************THEME BLOCK CONTACT *********************/
+.contact{
+	background:transparent url(../../img/contact.png) no-repeat top;
+	color:#492562;	
+	margin-top:10px;
+	margin-bottom:10px;
+	text-align:center;
+	padding:5px;
+	font-size:12px;
+}
+
+.contact p:hover{
+	text-decoration:underline;
+	color:#A37DAE;	
+	text-align:center;
+	font-size:12px;
+}
+/*-------------------------fin Colonne Droite----------------------------*/
+#mission {
+	background-color: #369;
+	padding: 1.5em 2em;
+	color: #fff;
+}
+#mission a, #mission a:visited {
+	color: #9cf;
+	font-weight: bold;
+}
+.site-name {
+	margin: 0.6em 0 0 ;
+	padding: 0;
+	font-size: 2em;
+}
+.site-name a:link, .site-name a:visited {
+	color: #fff;
+}
+.site-name a:hover {
+	color: #783187;
+	text-decoration: none;
+}
+.site-slogan {
+	font-size: 1em;
+	color: #eee;
+	display: block;
+	margin: 0;
+	font-style: italic;
+	font-weight: bold;
+}
+#main {
+	padding: 10px;
+}
+#mission, .node .content, .comment .content {
+	line-height: 1.4em;
+}
+#help {
+	font-size: 0.9em;
+	margin-bottom: 1em;
+}
+
+.messages {
+	background-color: #eee;
+	border: 1px solid #ccc;
+	padding: 0.3em;
+	margin-bottom: 1em;
+}
+.error {
+	border-color: red;
+}
+
+/*
+** Common declarations for child classes of node, comment, block, box, etc.
+** If you want any of them styled differently for a specific parent, add
+** additional rules /with only the differing properties!/ to .parent .class.
+** See .comment .title for an example.
+*/
+.title, .title a {
+	font-weight: bold;
+	font-size: 1.5em;
+	color: #777;
+	margin: 0 auto;  /* decrease default margins for h<x>.title */
+}
+.submitted {
+	color: #999;
+	font-size: 0.8em;
+}
+.links {
+	color: #999;
+}
+/* LTR */
+/*.links a {
+	font-weight: bold;
+}
+.block, .box {
+  padding: 0 0 1.5em 0; 
+}
+*/ 
+/*.block {
+  border-bottom: 1px solid #bbb;
+  padding-bottom: 0.75em;
+  margin-bottom: 1.5em;
+}
+*/
+.block .title {
+	margin-bottom: .25em;
+}
+.box .title {
+	font-size: 1.1em;
+}
+.node {
+	margin: 1em 0 0.5em; /* LTR */
+}
+.sticky {
+	padding: .5em;
+	background-color: #eee;
+	border: solid 1px #ddd;
+}
+.node .content, .comment .content {
+	margin: .5em 0 .5em;
+}
+.node .taxonomy {
+	color: #999;
+	font-size: 0.8em;
+	padding-left: 1.5em; /* LTR */
+}
+.node .picture {
+	border: 1px solid #ddd;
+	float: right; /* LTR */
+	margin: 0.5em;
+}
+.comment {
+	border: 1px solid #abc;
+	padding: .5em;
+	margin-bottom: 1em;
+}
+.comment .title a {
+	font-size: 1.1em;
+	font-weight: normal;
+}
+.comment .new {
+	text-align: right; /* LTR */
+	font-weight: bold;
+	font-size: 0.8em;
+	float: right; /* LTR */
+	color: red;
+}
+.comment .picture {
+	border: 1px solid #abc;
+	float: right; /* LTR */
+	margin: 0.5em;
+}
+/*
+** Module specific styles
+*/
+#aggregator .feed-source {
+	background-color: #eee;
+	border: 1px solid #ccc;
+	padding: 1em;
+	margin: 1em 0;
+}
+#aggregator .news-item .categories, #aggregator .source, #aggregator .age {
+	color: #999;
+	font-style: italic;
+	font-size: 0.9em;
+}
+#aggregator .title {
+	margin-bottom: 0.5em;
+	font-size: 1em;
+}
+#aggregator h3 {
+	margin-top: 1em;
+}
+#forum table {
+	width: 100%;
+}
+#forum td {
+	padding: 0.5em;
+}
+#forum td.forum, #forum td.posts {
+	background-color: #eee;
+}
+#forum td.topics, #forum td.last-reply {
+	background-color: #ddd;
+}
+#forum td.container {
+	background-color: #ccc;
+}
+#forum td.container a {
+	color: #555;
+}
+#forum td.statistics, #forum td.settings, #forum td.pager {
+	height: 1.5em;
+	border: 1px solid #bbb;
+}
+#forum td .name {
+	color: #96c;
+}
+#forum td .links {
+	padding-top: 0.7em;
+	font-size: 0.9em;
+}
+#profile .profile {
+	clear: both;
+	border: 1px solid #abc;
+	padding: .5em;
+	margin: 1em 0em;
+}
+#profile .profile .name {
+	padding-bottom: 0.5em;
+}
+.block-forum h3 {
+	margin-bottom: .5em;
+}
+div.admin-panel .description {
+	color: #999;
+}
+div.admin-panel .body {
+	background: #fceee5;
+}
+div.admin-panel h3 {
+	background-color: #e46425;
+	color: #fff;
+	padding: 5px 8px 5px;
+	margin: 0;
+}
+/* STYLES PROPRES AUX FORMULAIRES CAPSULE */
+label.capsule { width: 12em; float: left; }
+label.capsuleinline { width: 15em; float: none; display: inline; margin-left: 10px; margin-right: 10px; }
+label.error { float: none; color: red; padding-left: .5em; vertical-align: top; }
+input.capsule { }
+p.capsule { clear: both; margin-right:50px; }
+em.capsule { font-weight: bold; padding-right: 1em; vertical-align: top; font-size:1em; }
+.red { color: red; }
+.div {}
+ 
