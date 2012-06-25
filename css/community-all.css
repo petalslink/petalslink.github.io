@@ -1,12 +1,13 @@
-/*2012-06-06 - Version 1 - Fusion des fichiers de css galaxy.css, main.css et footer.css*/
-/*2012-06-11 - Version 2 - Inclusion des améliorations/corrections de Seb.*/
-/*2012-06-14 - Version 3 - Intégration des styles css de la bannière et des menus (fichier banner+menus.css) dans la section "HEADER" des améliorations/corrections de Seb.*/
-/*2012-06-14 - Version 4 - Modification de tous les appels d'images pour appeler copies locales pour permettre développement hors-ligne.*/
-/*2012-06-19 - Version 5 - Ajout de width et automargin à #menus et modifications de #nav pour meilleur rendu visuel. */
-/*2012-06-19 - Version 6 - Nettoyage de code, rajout des styles de paragraphe, ajout de commentaires pour modifs ultérieures sur menu.*/ 
-/*2012-06-21 - Version 7 - Intégration des styles de flux RSS, diminution de la width de #content pour aérer et ajout de clear:left par sécurité.*/ 
-/*2012-06-21 - Version 8 - Intégration des styles du bloc "Keep in touch", récupérés depuis le bloc Drupal du site corporate puis simplifiés (on enlève le span intermédiaire).*/
-/*2012-006-21 - Version 9 - Ajustements sur le top et margin-left de #nav, ajout de margin-top au #wrapper, ajout d'une hauteur fixe pour l'image de bannière pour aérer.*/
+/*2012-06-06 - Version 01 - Fusion des fichiers de css galaxy.css, main.css et footer.css*/
+/*2012-06-11 - Version 02 - Inclusion des améliorations/corrections de Seb.*/
+/*2012-06-14 - Version 03 - Intégration des styles css de la bannière et des menus (fichier banner+menus.css) dans la section "HEADER" des améliorations/corrections de Seb.*/
+/*2012-06-14 - Version 04 - Modification de tous les appels d'images pour appeler copies locales pour permettre développement hors-ligne.*/
+/*2012-06-19 - Version 05 - Ajout de width et automargin à #menus et modifications de #nav pour meilleur rendu visuel. */
+/*2012-06-19 - Version 06 - Nettoyage de code, rajout des styles de paragraphe, ajout de commentaires pour modifs ultérieures sur menu.*/ 
+/*2012-06-21 - Version 07 - Intégration des styles de flux RSS, diminution de la width de #content pour aérer et ajout de clear:left par sécurité.*/ 
+/*2012-06-21 - Version 08 - Intégration des styles du bloc "Keep in touch", récupérés depuis le bloc Drupal du site corporate puis simplifiés (on enlève le span intermédiaire).*/
+/*2012-06-21 - Version 09 - Ajustements sur le top et margin-left de #nav, ajout de margin-top au #wrapper, ajout d'une hauteur fixe pour l'image de bannière pour aérer.*/
+/*2012-06-25 - Version 10 - Intégration du reste de style de corps (titres 2 à 6, puces). Modification des appels de certaines images vers le répertoire common de files.petalslink.com/img.*/
 
 
 /*---------- COMMUNITY GALAXY ---------- */ 
@@ -16,7 +17,7 @@ margin:0;
 	}
 
 #galaxy {
-    background-image:url('http://files.petalslink.com/img/community/galaxy_line.gif'); 
+    background-image:url('http://files.petalslink.com/img/common/galaxy_line.gif'); 
     background-repeat:repeat-x;
     clear: both;
     height: 20px;
@@ -53,7 +54,7 @@ z-index:0;
 }
 
 #galaxy li.active, #galaxy li:hover {
-    background-image:url('http://files.petalslink.com/img/community/galaxy_right.png'), url('http://files.petalslink.com/img/community/galaxy_bottom.png');
+    background-image:url('http://files.petalslink.com/img/common/galaxy_right.png'), url('http://files.petalslink.com/img/common/galaxy_bottom.png');
     background-size:5px 15px, 20px 10px;
     background-position:right 3px, center bottom; /* Obligé de préciser en pixel pour le bord droit, à cause du bord bas et changement de padding, de 2px à 10px */
     background-repeat:no-repeat, no-repeat;
@@ -231,6 +232,36 @@ h1.title {
   padding-top: 5px;
   margin-top: 0px;
 }
+
+h2 {
+    color: #492562;
+    font-size: 1.2em;
+    padding-top: 3px;
+}
+
+h3 {
+    color: #E46425;
+    font-size: 1em;
+    font-weight: bold;
+}
+h4, h5, h6 {
+    font-size: 1.1em;
+}
+
+#content ul li {
+    list-style-image: url("http://files.petalslink.com/img/common/puce_v.png") !important;
+}
+li li {
+    list-style-image: url("http://files.petalslink.com/img/common/puce_o.png");
+}
+li li li {
+    list-style-image: url("http://files.petalslink.com/img/common/puce_g.png");
+}
+li li li li {
+    list-style-image: url("http://files.petalslink.com/img/common/puce_b.png");
+}
+
+
 
 /* Styles de la sidebar */
 #sidebar{
