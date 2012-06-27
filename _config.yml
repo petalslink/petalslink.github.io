@@ -6,5 +6,6 @@ rdiscount:
   extensions: [smart]
   
 # local configuration
-url: http://localhost/websites/jekyll/petals/
+# url: http://localhost/websites/jekyll/petals/
+# url: http://petals.ow2.org/petals-community
 server_port: 4444
