@@ -1,21 +1,26 @@
 ---
 layout: standard
-title: "Petals Link, first expert on Petals"
+title: "Petals Link, first expert on Petals ESB"
 --- 
-Petals Link (or EBM Websourcing originally) was created altogether with the JOnES project, to support it and lead it to a industrial grade product.
-Today, Petals Link employs most of the core developer team and provides services to many big account and administrations. 
+Petals Link (formerly known as EBM WebSourcing) was created to support Petals ESB and lead it to an industrial grade product.
+Today, Petals Link is part of [Linagora](http://www.linagora.com), a French leader company in open-source. 
+It employs most of the core developer team and provides services to many big accounts and administrations. 
 
-We cover a large range of services, notably consulting, support and training.
+Petals Link's services cover various requirements, from training and consulting to architecture audit and support.
+More generally, Petals Link provides professional services around Petals ESB and SOA projects.
 
 # <a id="consulting"></a>Consulting
-We can help in any step of your project, be it specifications, configurations, delivery of proofs of concept, daily accompaniement... Don't hesitate to ask for advice!
+Get help at any stage of your project, be it specifications, configurations, delivery of proofs of concept, daily assistance...
 [Get expertise on your project](http://www.petalslink.com/en/services/expertise"Petals consulting services")
 
-# <a id="trainings"></a>Trainings
-Petals Link helps you grasp the concepts and good practices of SOA, and develop your project with Petals ESB, through a series of thematics trainings. From the basics to the most advanced operations, you can become a SOA and Petals experts in a matter of days.
+# <a id="training"></a>Training Sessions
+Petals Link helps you grasp the concepts and good practices of SOA, and develop your project with Petals ESB, through a series of thematic training sessions. 
+From the basics to the most advanced operations, you can become a SOA and Petals expert in a matter of days.
 [Browse training programs](http://www.petalslink.com/en/services/trainings"Browse Petals Link trainings sideline").
 
 # <a id="support"></a>Support
-We are proud to have a helpful and passionnate community, that can help you during experimentations and development phase. Still, projects released in a production environment generally need fast and efficient responses to any problem arising.
-Thus, for production related projects, we recommend subscribing professional support from Petals Link, bringing the greatest experts on Petals, the core developers, at your service.
-[More information on Petals Link professional support sideline](http://www.petalslink.com/en/services/support"More on professional support for Petals ESB").
+We are proud to have a helpful and passionate community, that can help you during experimentations and development phase. Still, projects released in production 
+environments generally need fast and efficient responses to any problem arising.
+This is why production related projects can subscribe for professional support from Petals Link. Thus, your project can benefit from the expertise of Petals specialists
+and developers.
+[More information on Petals Link professional support here](http://www.petalslink.com/en/services/support"More on professional support for Petals ESB").

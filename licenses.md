@@ -3,7 +3,7 @@ layout: standard
 title: "Licenses"
 ---  
 All our software is published under the terms of Open Source Licenses.
-We try to keep our products as open as possible, while being respectful of the license of libraries/products we reuse. As such: 
+We try to keep our products as open as possible, while being respectful of the license of libraries/products we reuse.
 
 * Petals ESB, its components and shared libraries, as well as Petals Master, are all published under the terms of the [Lesser General Public License 2.1](http://www.gnu.org/licenses/lgpl-2.1.html"Lesser General Public License v2.1").
 

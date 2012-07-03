@@ -1,6 +1,6 @@
 ---
 layout: standard
-title: "Petals ESB overview"
+title: "Petals ESB Features"
 ---  
 # <a id="features"></a>Main features
 
@@ -19,5 +19,3 @@ title: "Petals ESB overview"
 -  Extensibility: with its component-based architecture, it is possible to extend, update and modify the platform dynamically.
 
 -  Tools: that may not sound like a feature for the platform, but Petals ESB is completed by several tools, including a development environment, a [Web console], a governance solution, a Maven plug-in, administration ANT scripts and many more. These different tools target various project actors and profiles, making it a complete suite.
-
-Previous: [Presentation of Petals]({{ site.url }}overview.html"What is Petals suite? Learn about key concepts of SOA")
