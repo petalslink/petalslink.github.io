@@ -4,25 +4,25 @@ title: "Committers"
 ---
 # Active Committers
 
-Active committers on Petals ESB and related projects.
+*Active committers on Petals ESB and related projects.*
 
-* Christophe Deneux (Linagora)<br /><a href="https://twitter.com/ChrisDENEUX">ChrisDENEUX @ Twitter</a>
+* Christophe Deneux (Linagora) - [@chrisdeneux](https://twitter.com/ChrisDENEUX)
 
-* Christophe Hamerling (Linagora)<br /><a href="https://twitter.com/chamerling">CHamerling @ Twitter</a><br /><a href="http://chamerling.org/">Christophe's Blog</a>
+* Christophe Hamerling (Linagora) - [@chamerling](https://twitter.com/chamerling) - [Blog](http://chamerling.org)
 
-* Julien Lesbesguieres (Linagora)<br /><a href="https://twitter.com/jlesbegueries">JLesbegueries @ Twitter</a>
+* Julien Lesbesguieres (Linagora) - [@jlesbegueries](https://twitter.com/jlesbegueries)
 
 * Marie Sauvage (Linagora)
 
 * Nicolas Salatgé (Linagora)
 
-* Pierre-Yves Gibello (Linagora)<br /><a href="http://planet.petalslink.com/home/pygibello/">Pierre-Yves's Blog</a>
+* Pierre-Yves Gibello (Linagora) - [Blog](http://planet.petalslink.com/home/pygibello/)
 
-* Vincent Zurczak (Linagora)<br /><a href="https://twitter.com/VincentZurczak">VincentZurczak @ Twitter</a><br /><a href="http://vzurczak.wordpress.com">Vincent's English Blog</a><br /><a href="http://vzurczak2.wordpress.com">Vincent's French Blog</a>
+* Vincent Zurczak (Linagora) - [@vincentzurczak](https://twitter.com/VincentZurczak) - [Blog (EN)](http://vzurczak.wordpress.com) - [Blog (FR)](http://vzurczak2.wordpress.com)
 
 # Former Committers
 
-People who were actively involved in the Petals project. 
+*People who were actively involved in the Petals project.* 
 
 * Adrien Louis (Petals Link)
 
@@ -64,7 +64,7 @@ People who were actively involved in the Petals project.
 
 # Contributors
 
-People who contributed to the Petals project.
+*People who contributed to the Petals project.*
 
 * Cédric Girodengo (Cap Gemini Sud)
 
