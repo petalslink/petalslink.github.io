@@ -2,9 +2,8 @@
 layout: standard
 title: "Links"
 ---
-Here is a reminder of the websites related to Petals ESB.
 
-# Download Pages
+# Downloads
 
 * [Most Recent Release](http://download.petalslink.com/petals-esb.html)
 

@@ -2,7 +2,7 @@
 layout: standard
 title: "Petals ESB Overview"
 ---  
-Petals ESB is an open-source Enterprise Service Bus (ESB) provided by the OW2 Middleware Consortium. 
+Petals ESB is an open-source Enterprise Service Bus (ESB) provided by the [OW2 Middleware Consortium](http://ow2.org/). 
 More concretely, Petals ESB is a Java platform based on SOA principles to interconnect heterogeneous systems, applications and services. 
 It acts as a mediation and a communication layer in Information Systems. Its architecture and supported standards make it a valuable solution for both integration and SOA projects.
 
@@ -10,7 +10,7 @@ It acts as a mediation and a communication layer in Information Systems. Its arc
 <img src="http://files.petalslink.com/img/community/petals_esb_core-concept_en.png" alt="Illustration of Petals ESB's roles within an infrastructure" title="How Petals ESB helps you build a SOA infrastructure">
 <br />
 
-Petals ESB was created in 2004, through a French research project, the JOnES project. The objective was to design a bus capable of massive scaling without performances or reliability loss.
+Petals ESB was created in 2004, through a French funded research project: the JOnES project. The objective was to design a bus capable of massive scaling without performances or reliability loss.
 
 As as result, one of the key features of Petals ESB is its distributed aspect, which can be seen as an alternative to cluster solutions.
 Several physical Petals servers can constitute virtually a single bus. Coupled to SOA principles, this gives a lot of flexibility in the architectures that can be implemented with Petals 

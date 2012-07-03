@@ -2,19 +2,18 @@
 layout: standard
 title: "Download Petals ESB"
 --- 
-Start easy and fast! 
 
-The last Petals release is Petals 4.0.
-Since this version, everything you need to start is contained in a single package. Or almost everything. 
-The Eclipse environment for Petals ESB, Petals Studio, was not included to reduce the size of the package. 
-You will have to download it separately.
+# Latest
 
-[Download Petals ESB 4.0 and Petals Studio](http://download.petalslink.com/petals-esb.html "Download Petals ESB 4.0")<br />
+*Petals 4.X is provided as a complete package which embeds all that is needed to get started with Petals ESB.*
 
+- [Petals ESB 4.0](http://download.petalslink.com/petals-esb.html "Petals ESB 4.0") - Released on XXX
+- [Petals Studio 1.X](http://download.petalslink.com/petals-esb.html "Petals Studio 1.X") - Released on XXX
 
-<br />A maintenance version of Petals 3.1 is also available.<br />
-[Download Petals ESB 3.1](http://download.petalslink.com/petals-esb-all.html("Browse Petals ESB 3.1 core and components")<br />
-[Download Petals Studio 1.2](http://download.petalslink.com/petals-studio.html "Download Petals Studio 1.2")
+# Oldies
 
-Notice that in this version (and in previous ones), the core of Petals ESB, its connectors and transformation engines, as well as 
-other development and administration tools, were distributed separately. Therefore, you will have to download manually every part you need.
+*Notice that in the old versions, the core of Petals ESB, its connectors and transformation engines, as well as 
+other development and administration tools, were distributed separately. Therefore, you will have to download manually every part you need.*
+
+- [Petals ESB 3.1](http://download.petalslink.com/petals-esb-all.html("Browse Petals ESB 3.1 core and components")
+- [Petals Studio 1.2](http://download.petalslink.com/petals-studio.html "Download Petals Studio 1.2")
