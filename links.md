@@ -29,6 +29,8 @@ When the access is restricted, use <i>anonymous/anonymous</i> as credentials.
 
 * [Petals Documentation](http://doc.petalslink.com)
 
+* [Issue Tracker](http://jira.petalslink.com)
+
 * [Community Forum](http://forum.petalslink.com/ "Get support from the community about Petals")
 
 * [Blogs about Petals](http://planet.petalslink.com)
