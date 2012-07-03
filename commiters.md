@@ -2,75 +2,72 @@
 layout: standard
 title: "Commiters"
 ---
-# Current commiters
+# Active Committers
 
 * Christophe Deneux
 
 * Christophe Hamerling
 
-* Vincent Zurczak
-
-* Pierre-Yves Gibello
-
-* Mathieu Carrolle
-
-* Nicolas Oddoux
+* Julien Lesbesguieres
 
 * Marie Sauvage
 
 * Nicolas Salatgé
 
-* Julien Lesbesguieres
+* Pierre-Yves Gibello
 
-# Past commiters
+* Vincent Zurczak
 
-* Marc Jambert
-
-* Olivier Fabre
-
-* Sandra Trino
-
-* Adrien Ruffie
-
-* Frédéric Gardes
-
-* Thierry Déjean
-
-* Gaël Blondelle
-
-* Mickaël Istria
-
-* Sébastien André
-
-* Roland Naudin
-
-* Mathias Beldame
+# Former Committers
 
 * Adrien Louis
 
-* Maxime Carpentier
-
-* Mohammed El Jai
+* Adrien Ruffie
 
 * Anne-Marie Barthe
 
 * Charles Casadei
 
+* Frédéric Gardes
+
+* Gaël Blondelle
+
+* Marc Jambert
+
+* Mathias Beldame
+
+* Mathieu Carrolle
+
+* Maxime Carpentier
+
+* Mickaël Istria
+
+* Mohammed El Jai
+
+* Nicolas Oddoux
+
+* Olivier Fabre
+
 * Patrice Conil
+
+* Roland Naudin
+
+* Sandra Trino
+
+* Sébastien André
+
+* Thierry Déjean
 
 # Contributors
 
-* Marc Dutoo (Open Wide)
+* Cédric Girodengo (Cap Gemini Sud)
 
 * Guillaume Decarnin (Open Wide)
 
-* Philippe Merle (INRIA)
+* Hervé Gérard (Sopra)
+
+* Marc Dutoo (Open Wide)
 
 * Nicolas Dolet (INRIA)
 
-* Cédric Girodengo (Cap Gemini Sud)
-
-* Hervé Gérard (Sopra)
-
-
-
+* Philippe Merle (INRIA)
