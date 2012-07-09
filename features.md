@@ -2,7 +2,7 @@
 layout: standard
 title: "Petals ESB Features"
 ---  
-# <a id="features"></a>Main features
+# Main features
 
 - **Distributed**: Petals ESB is a natively distributed platform. Each deployed instance has the ability of communicating with other instances over a network.
 
