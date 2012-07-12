@@ -2,9 +2,15 @@ require 'rubygems'
 require 'rake'
 require 'fileutils'
 require 'stringex'
+require 'net/ssh'
+require 'net/scp'
 
 posts_dir = "_posts"    # directory for blog files
 new_post_ext = "markdown"  # default new post file extension when using the new_post task
+
+# Deployment variables
+hostname = 'jupiter.objectweb.org'
+path = '/var/lib/gforge/chroot/home/groups/petals/htdocs/'
 
 # usage rake new
 desc "Begin a new post in #{posts_dir}"
@@ -35,9 +41,29 @@ task :start do
   sh "jekyll --server --auto"
 end
 
-desc "Generate"
+desc "Generate the Web site"
 task :generate do
+  puts "Generating the Web site under the _site folder..."
   sh "jekyll --no-auto"
+  puts "Done!"
 end
+
+#
+# Need ow2login and ow2password parameters
+# 
+desc "Deploy the Web site"
+task :deploy => :generate do
+  login = ENV['ow2login']
+  password = ENV['ow2password']
+  raise "Please provide valid OW2 credentials" if !login or !password
+
+  puts "Deploying the Web site to petals.ow2.org as #{login}..."    
+  cd '_site'
+  Net::SSH.start( hostname, login, :password => password ) do |ssh|
+    ssh.scp.upload!( '.', path, :recursive => true )
+  end
+  puts "Deployed!"
+end
+
 
 task :default => :start
