@@ -1,9 +1,14 @@
 require 'rubygems'
 require 'rake'
-require 'fileutils'
-require 'stringex'
 require 'net/ssh'
 require 'net/scp'
+
+begin
+  require 'fileutils'
+  require 'stringex'
+rescue LoadError
+  puts "Please install gems : fileutils, stringex"
+end
 
 posts_dir = "_posts"    # directory for blog files
 new_post_ext = "markdown"  # default new post file extension when using the new_post task
