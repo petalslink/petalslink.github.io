@@ -32,7 +32,12 @@ end
 
 desc "Startup Jekyll"
 task :start do
-  sh "jekyll --server"
+  sh "jekyll --server --auto"
+end
+
+desc "Generate"
+task :generate do
+  sh "jekyll --no-auto"
 end
 
 task :default => :start
