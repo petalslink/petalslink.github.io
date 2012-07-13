@@ -13,7 +13,7 @@ Petals ESB was created in 2004, through a French funded research project: the JO
 As as result, one of the key features of Petals ESB is its distributed aspect, which can be seen as an alternative to cluster solutions.
 Several physical Petals servers can constitute virtually a single bus. Coupled to SOA principles, this gives a lot of flexibility in the architectures that can be implemented with Petals 
 (high availability, fail-over, mirroring...). Communications between systems are resolved as message exchanges between service providers and service consumers, their relation being controlled 
-by a contract. Mapping applications and systems with service providers and consumers improves the system modularity and enables low-coupling between applications.
+by a contract. Mapping applications and systems with service providers and consumers improves the system modularity and enables loose coupling between applications.
 
 Petals ESB supports several communication protocol (SOAP over HTTP/S, Mail, FTP, SFTP...). It also supports several standards, including web services, WS-Security, XSLT, XML Schema... 
 Petals ESB comes with tools for various users and project stages, from development to administration and monitoring tools.
