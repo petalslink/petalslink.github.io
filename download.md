@@ -24,5 +24,5 @@ title: "Download Petals ESB"
 *Notice that in the old versions, the core of Petals ESB, its connectors and transformation engines, as well as 
 other development and administration tools, were distributed separately. Therefore, you will have to download manually every part you need.*
 
-- [Petals ESB 3.1](http://download.petalslink.com/petals-esb-all.html("Browse Petals ESB 3.1 core and components")
+- [Petals ESB 3.1](http://download.petalslink.com/petals-esb-all.html "Browse Petals ESB 3.1 core and components")
 - [Petals Studio 1.2](http://download.petalslink.com/petals-studio.html "Download Petals Studio 1.2")
