@@ -8,9 +8,10 @@ You can access it anytime thanks to the navigation bar located on top of the pag
 
 # Tutorials and Training
 If you want to get a quick start on Petals and are on the self-learning side, we propose a quick-start tutorial to grasp the basics concepts and use of Petals ESB, based on Petals ESB 3.1:
-[Get started on Petals ESB in five lessons](http://www.petalslink.com/starting-guide "Get started on Petals ESB in five lessons").
+[get started on Petals ESB in five lessons](http://www.petalslink.com/starting-guide "Get started on Petals ESB in five lessons").
 
-Another way is to follow professional training: [Petals Link](http://www.petalslink.com) regularly gives training sessions to work with Petals ESB ([Read more about Petals training sessions](http://www.petalslink.com/en/services/trainings "Petals Link's professional training sessions about Petals ESB")).
+Another way is to follow professional training: [Petals Link](http://www.petalslink.com) regularly gives training sessions to work with Petals ESB.
+[Read more about Petals training sessions](http://www.petalslink.com/en/services/trainings "Petals Link's professional training sessions about Petals ESB").
 
 # Whitepapers and News
 If you want to learn more about SOA and ESB, we recommend browsing these sources:

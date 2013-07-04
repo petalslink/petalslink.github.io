@@ -48,7 +48,7 @@ img {
 	width:72%;
 	margin-left: 0.5%;
 	float: left;
-	clear: left; /* Ajout de sécurité si on veut diminuer la taille en dessous de 70%.*/
+	clear: left;
 }
 
 #download-button {
@@ -125,10 +125,16 @@ li li li li {
 }
 
 #sidebar h2 {
-	background:url('http://files.petalslink.com/img/community/colonne_droite_onglet.png') no-repeat scroll center top transparent;
-	color:white;
-	text-align:center;
-	padding-bottom:10px;
+	color: #646464;
+	text-align: center;
+	padding: 3px 15px;
+	-webkit-border-radius: 15px;
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+	background-color: #e8e8e8;
+	border: solid #babbbb 1px;
+	font-size: 13px;
+	margin-bottom: 10px;
 }
 
 #sidebar h2 + p {

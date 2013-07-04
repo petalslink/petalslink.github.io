@@ -8,11 +8,7 @@ title: "Committers"
 
 * Christophe Deneux (Linagora) - [@chrisdeneux](https://twitter.com/ChrisDENEUX)
 * Christophe Hamerling (Linagora) - [@chamerling](https://twitter.com/chamerling) - [Blog](http://chamerling.org)
-* Julien Lesbesguieres (Linagora) - [@jlesbegueries](https://twitter.com/jlesbegueries)
-* Marie Sauvage (Linagora)
-* Nicolas Salatgé (Linagora)
-* Pierre-Yves Gibello (Linagora) - [Blog](http://planet.petalslink.com/home/pygibello/)
-* Vincent Zurczak (Linagora) - [@vincentzurczak](https://twitter.com/VincentZurczak) - [Blog (EN)](http://vzurczak.wordpress.com) - [Blog (FR)](http://vzurczak2.wordpress.com)
+* Vincent Zurczak (Linagora) - [@VincentZurczak](https://twitter.com/VincentZurczak) - [Blog (EN)](http://vzurczak.wordpress.com) - [Blog (FR)](http://vzurczak2.wordpress.com)
 
 # Former Committers
 
@@ -24,15 +20,19 @@ title: "Committers"
 * Charles Casadei (Petals Link)
 * Frédéric Gardes (Petals Link)
 * Gaël Blondelle (Petals Link)
+* Julien Lesbesguieres (Linagora) - [@jlesbegueries](https://twitter.com/jlesbegueries)
 * Marc Jambert (Petals Link)
 * Mathias Beldame (Petals Link)
 * Mathieu Carrolle (Petals Link)
+* Marie Sauvage (Linagora)
 * Maxime Carpentier (Petals Link)
 * Mickaël Istria (Petals Link)
 * Mohammed El Jai (Petals Link)
 * Nicolas Oddoux (Petals Link)
+* Nicolas Salatgé (Linagora)
 * Olivier Fabre (Petals Link)
 * Patrice Conil (Petals Link)
+* Pierre-Yves Gibello (Linagora) - [Blog](http://planet.petalslink.com/home/pygibello/)
 * Roland Naudin (Petals Link)
 * Sandra Trino (Petals Link)
 * Sébastien André (Petals Link)

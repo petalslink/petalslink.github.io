@@ -5,9 +5,7 @@ title: "Links"
 
 # Downloads
 
-* [Most Recent Release](http://download.petalslink.com/petals-esb.html)
-* [Older Releases](http://download.petalslink.com/petals-esb-all.html)
-* [Petals Studio](http://download.petalslink.com/petals-studio.html)
+* [Downloads Index](/downloads.html)
 
 # Source Code
 
@@ -15,6 +13,9 @@ When the access is restricted, use <i>anonymous/anonymous</i> as credentials.
 
 * [Current source repository for Petals ESB](https://svn.petalslink.org/svnroot/trunk/product/dev/prod/ "Current source repository for Petals ESB")
 * [Current source repository for Petals Studio](https://github.com/petalslink/petals-studio "Current source repository for Petals Studio")
+
+<!-- -->
+
 * [Former source repository for Petals ESB](http://forge.ow2.org/projects/petals/ "Former source repository for Petals ESB")
 * [Former source repository for Petals Tools](https://forge.ebmwebsourcing.com/ "Former source repository for Petals Tools")
 
@@ -23,8 +24,14 @@ When the access is restricted, use <i>anonymous/anonymous</i> as credentials.
 * [Community Website](http://petals.ow2.org)
 * [Petals Documentation](http://doc.petalslink.com)
 * [Issue Tracker](http://jira.petalslink.com)
+
+<!-- -->
+
 * [Community Forum](http://forum.petalslink.com/ "Get support from the community about Petals")
 * [Blogs about Petals](http://planet.petalslink.com)
+
+<!-- -->
+
 * [Petals @ Ohloh](https://www.ohloh.net/p/petals/)
 * [Petals @ Twitter](https://twitter.com/petalslink)
 

@@ -1,6 +1,6 @@
 ---
 layout: standard
-title: "Petals ESB, your distributed Open Source Entreprise Service Bus"
+title: "Petals ESB, your distributed Open Source Enterprise Service Bus"
 show-dl-in-menu: true
 ---
 Petals ESB is an open-source Enterprise Service Bus (ESB) provided by the OW2 Middleware Consortium. 
@@ -14,5 +14,5 @@ Several physical Petals servers can constitute virtually a single bus. Coupled t
 Petals ESB supports several communication protocol (SOAP over HTTP/S, Mail, FTP, SFTP...). It also supports several standards, including web services, WS-Security, XSLT, XML Schema... Petals ESB comes with tools for various users and project stages, from development to administration and monitoring tools. [Read more about Petals ESB features]({{ site.url }}overview.html#features).
 
 <div id="download-img-wrapper">
-	<a href="http://download.petalslink.com/petals-esb.html"><img src="images/download_petals-esb_3.1.png" alt="Download Petals ESB" /></a>
+	<a href="/download.html"><img src="images/download_petals-esb_3.1.png" alt="Download Petals ESB" /></a>
 </div>
