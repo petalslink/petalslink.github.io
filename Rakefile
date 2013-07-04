@@ -64,6 +64,7 @@ task :deploy => :generate do
     ssh.scp.upload!( '.', path, :recursive => true )
   end
   puts "Deployed!"
+  puts "=====> Please go to http://forge.ow2.org/project/admin/?group_id=213 and push the 'Push project Web site to production Now' button! <====="
 end
 
 
