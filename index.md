@@ -1,6 +1,6 @@
 ---
 layout: standard
-title: "Petals ESB, your distributed Open Source Enterprise Service Bus"
+title: "Petals ESB, the distributed Open-Source Enterprise Service Bus"
 show-dl-in-menu: true
 ---
 Petals ESB is an open-source Enterprise Service Bus (ESB) provided by the OW2 Middleware Consortium. 
