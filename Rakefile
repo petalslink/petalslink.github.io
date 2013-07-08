@@ -39,13 +39,13 @@ end
 
 desc "Startup Jekyll"
 task :start do
-  sh "jekyll --server --auto"
+  sh "jekyll serve"
 end
 
 desc "Generate the Web site"
 task :generate do
   puts "Generating the Web site under the _site folder..."
-  sh "jekyll --no-auto"
+  sh "jekyll build"
   puts "Done!"
 end
 
