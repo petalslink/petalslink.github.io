@@ -8,7 +8,7 @@
 
 
 body {
-	background:url("http://files.petalslink.com/img/community/fond_2.0.gif") no-repeat scroll center top transparent;
+	background:url("images-css/background.gif") no-repeat scroll center top transparent;
 	color: #333333;
 	font: 76% Verdana,Arial,Helvetica,sans-serif;
 }
@@ -76,7 +76,7 @@ h1 {
 }
 
 h1.title {
-  background: url("http://files.petalslink.com/img/community/h1_underline.png") no-repeat scroll 0 100% transparent;
+  background: url("images-css/h1_underline.png") no-repeat scroll 0 100% transparent;
   color: #777777;
   font-size: 1.5em;
   font-weight: bold;
@@ -102,17 +102,17 @@ h3 {
 }
 
 #content ul li {
-    list-style-image: url("http://files.petalslink.com/img/common/puce_v.png") !important;
+    list-style-image: url("images-css/puce_v.png") !important;
 }
 
 li li {
-    list-style-image: url("http://files.petalslink.com/img/common/puce_o.png");
+    list-style-image: url("images-css/puce_o.png");
 }
 li li li {
-    list-style-image: url("http://files.petalslink.com/img/common/puce_g.png");
+    list-style-image: url("images-css/puce_g.png");
 }
 li li li li {
-    list-style-image: url("http://files.petalslink.com/img/common/puce_b.png");
+    list-style-image: url("images-css/puce_b.png");
 }
 
 
@@ -185,7 +185,7 @@ li li li li {
 }
 
 #nav{
-	background: url('http://files.petalslink.com/img/community/back_menu.png') repeat-x;
+	background: url('images-css/back_menu.png') repeat-x;
 	height: 26px;
 	font-weight: bold;
 	margin-bottom: 10px;
@@ -214,7 +214,7 @@ li li li li {
 
 
 #nav a:hover, #nav a.select{
-    background: url("http://files.petalslink.com/img/community/back_menu_hover.png") repeat-x scroll center top transparent;
+    background: url("images-css/back_menu_hover.png") repeat-x scroll center top transparent;
     color: white;
     text-decoration:none;
 }
@@ -246,7 +246,7 @@ li li li li {
 }
 
 #nav li:hover a {
-    background: url("http://files.petalslink.com/img/community/back_menu_hover.png") repeat-x scroll center top transparent;
+    background: url("images-css/back_menu_hover.png") repeat-x scroll center top transparent;
     color: #FFFFFF;
 }
 
@@ -257,7 +257,7 @@ li li li li {
 }
 
 #nav li:hover ul li a:hover {
-	background: url("http://files.petalslink.com/img/community/back_menu_hover.png") repeat-x scroll center top transparent;
+	background: url("images-css/back_menu_hover.png") repeat-x scroll center top transparent;
 	color: white;
 }
 
@@ -292,7 +292,7 @@ p.sociaux {margin:10px 0 0 40px !important;}
 
 #footer {
 	text-align: center;
-	background: url('http://files.petalslink.com/img/community/footer_8.0.gif') no-repeat center;
+	background: url('images-css/footer_8.0.gif') no-repeat center;
 	padding-top: 190px;
 	clear: both;
 }
