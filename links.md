@@ -35,6 +35,13 @@ When the access is restricted, use <i>anonymous/anonymous</i> as credentials.
 * [Petals @ Ohloh](https://www.ohloh.net/p/petals/)
 * [Petals @ Twitter](https://twitter.com/petalslink)
 
+# Development
+
+* [Continuous Integration](http://jenkins.petalslink.com)
+* [Snapshot Maven Repository](http://repository.ow2.org/nexus/)
+* [Old Maven Repository](http://maven.petalslink.com)
+* [Older Maven Repository](http://maven.ow2.org/maven2/)
+
 # Professional Support
 
 * [Petals Link](http://petalslink.com "Get support and expertise about Petals ESB")

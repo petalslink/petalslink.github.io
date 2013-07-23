@@ -3,12 +3,18 @@ layout: standard
 title: "Download"
 --- 
 
-# Latest
+# Latest Stable
 
 *Petals 4.1 is provided as a complete package.*  
 It embeds everything to get started with Petals ESB.
 
 [Access the last downloads](/download-petals-4.1.html).
+
+# Snapshots
+
+A snapshot version of the [next Petals distribution](https://jira.petalslink.com/sr/jira.issueviews:searchrequest-printable/10174/SearchRequest-10174.html?tempMax=1000) 
+can be downloaded 
+[here](http://repository.ow2.org/nexus/service/local/artifact/maven/content?r=snapshots&g=org.ow2.petals&a=petals-esb-enterprise-edition&v=LATEST&p=zip).
 
 # Oldies
 
