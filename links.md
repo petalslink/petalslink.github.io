@@ -38,6 +38,10 @@ When the access is restricted, use <i>anonymous/anonymous</i> as credentials.
 # Development
 
 * [Continuous Integration](http://jenkins.petalslink.com)
+* [Sonar Instance](http://sonar.petalslink.com/)
+
+<!-- -->
+
 * [Snapshot Maven Repository](http://repository.ow2.org/nexus/)
 * [Old Maven Repository](http://maven.petalslink.com)
 * [Older Maven Repository](http://maven.ow2.org/maven2/)
