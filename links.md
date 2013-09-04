@@ -62,6 +62,11 @@ When the access is restricted, use <i>anonymous/anonymous</i> as credentials.
 * [EasyBPEL](http://research.petalslink.org/display/easybpel/EasyBPEL+Overview)
 * [Petals Master](http://petalsmaster.ow2.org/)
 
+# Old Articles
+
+* [Build an SOA application from exisiting services](http://www.javaworld.com/javaworld/jw-10-2006/jw-1011-jbi.html)
+* [Use JBI components for integration](http://www.javaworld.com/javaworld/jw-07-2006/jw-0717-jbi.html)
+
 # Related Communities
 
 * [OW2](http://ow2.org)<br />Petals ESB is a project hosted by the OW2 Consortium.
