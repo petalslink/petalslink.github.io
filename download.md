@@ -18,7 +18,7 @@ can be downloaded
 
 # Oldies
 
-- [Access the last downloads](/download-petals-4.1.html) for Petals 4.1.
+- [Access the downloads](/download-petals-4.1.html) for Petals 4.1.
 - [Access the downloads](/download-petals-4.0.html) for Petals 4.0.
 - [Access the downloads](/download-petals-3.1.3.html) for Petals 3.1.3.
 - [Access the downloads](/download-petals-older.html) for older versions. 
