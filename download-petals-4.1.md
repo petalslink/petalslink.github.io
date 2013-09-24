@@ -11,7 +11,7 @@ title: "Download &raquo; Petals ESB 4.1"
 - Read the [New & Noteworthy](http://www.petalslink.com/en/news/latest/new-release-petals-esb-41) page or take a look at the [Release Notes](https://jira.petalslink.com/sr/jira.issueviews:searchrequest-printable/10172/SearchRequest-10172.html?tempMax=1000)
 - Access [the documentation](https://doc.petalslink.com/display/petalsesb41/Petals+ESB+4.1)
 
-# Petals Studio 1.3.x
+# Petals Studio 1.3.3
 
 Petals Studio 1.3.3 is a maintenance release of Petals Studio 1.3.  
 Select the right version of Petals Studio (147 Mb).
