@@ -8,7 +8,7 @@ title: "Download &raquo; Petals ESB 4.2"
 [Download Petals ESB 4.2.0](http://repository.ow2.org/nexus/content/groups/public/org/ow2/petals/petals-esb-enterprise-edition/4.2.0/petals-esb-enterprise-edition-4.2.0.zip "Petals ESB 4.2.0") (115 Mb)
 
 - Released on September 24<sup>th</sup>, 2013
-- Read the [New & Noteworthy](http://www.petalslink.com/en/news/latest/new-release-petals-esb-42) page or take a look at the [Release Notes](https://jira.petalslink.com/sr/jira.issueviews:searchrequest-printable/10174/SearchRequest-10174.html?tempMax=1000)
+- Read the [New & Noteworthy](http://www.petalslink.com/en/news/latest/new-release-petals-esb-42) page or take a look at the [Release Notes](https://jira.petalslink.com/secure/IssueNavigator.jspa?mode=hide&requestId=10174)
 - Access [the documentation](https://doc.petalslink.com/display/petalsesb42/Petals+ESB+4.2)
 
 # Petals Studio 1.3.4
@@ -29,7 +29,7 @@ Select the right version of Petals Studio (147 Mb).
 
 # Debian Packages
 
-The essential parts of Petals ESB are available as Debian packages.
+The essential parts of Petals ESB are available as Debian packages.  
 This is useful in particular for production environments.
 
 - The [Petals container](http://repository.ow2.org/nexus/content/groups/public/org/ow2/petals/petals-esb-default-deb/4.2.0-1.0/petals-esb-default-deb-4.2.0-1.0.deb).
@@ -37,7 +37,9 @@ This is useful in particular for production environments.
 - The [artifact repository](http://repository.ow2.org/nexus/content/groups/public/org/ow2/petals/petals-artifactrepository-impl/1.0.0/petals-artifactrepository-impl-1.0.0.deb) extension for the container.
 - The [web service API](http://repository.ow2.org/nexus/content/groups/public/org/ow2/petals/petals-ws-api/1.0.0/petals-ws-api-1.0.0.deb) extension for the container.
 
+<!-- -->
+
 - [Petals CLI](http://repository.ow2.org/nexus/content/groups/public/org/ow2/petals/petals-cli-distrib-deb/2.1.1-1.0/petals-cli-distrib-deb-2.1.1-1.0.deb).
 - The Petals CLI extension for [monitoring](http://repository.ow2.org/nexus/content/groups/public/org/ow2/petals/petals-cli-cmd-monitoring-deb/1.0.0-1.0/petals-cli-cmd-monitoring-deb-1.0.0-1.0.deb).
 - The Petals CLI extension for [Cacti](http://repository.ow2.org/nexus/content/groups/public/org/ow2/petals/petals-cli-cmd-monitoring-mo-cacti-deb/1.0.0-1.0/petals-cli-cmd-monitoring-mo-cacti-deb-1.0.0-1.0.deb).
-- The Petals CLI extension for [Nagios](http://repository.ow2.org/nexus/content/groups/public/org/ow2/petals/petals-cli-cmd-monitoring-so-nagios-deb/1.0.0-1.0/petals-cli-cmd-monitoring-so-nagios-deb-1.0.0-1.0.deb). 
+- The Petals CLI extension for [Nagios](http://repository.ow2.org/nexus/content/groups/public/org/ow2/petals/petals-cli-cmd-monitoring-so-nagios-deb/1.0.0-1.0/petals-cli-cmd-monitoring-so-nagios-deb-1.0.0-1.0.deb).
