@@ -5,7 +5,7 @@ title: "Download"
 
 # Latest Stable
 
-*Petals 4.2 is provided as a complete package.*  
+Petals 4.2 is provided as a complete package.  
 It embeds everything to get started with Petals ESB.
 
 [Access the last downloads](/download-petals-4.2.html).
