@@ -41,5 +41,5 @@ This is useful in particular for production environments.
 
 - [Petals CLI](http://repository.ow2.org/nexus/content/groups/public/org/ow2/petals/petals-cli-distrib-deb/2.1.1-1.0/petals-cli-distrib-deb-2.1.1-1.0.deb).
 - The Petals CLI extension for [monitoring](http://repository.ow2.org/nexus/content/groups/public/org/ow2/petals/petals-cli-cmd-monitoring-deb/1.0.0-1.0/petals-cli-cmd-monitoring-deb-1.0.0-1.0.deb).
-- The Petals CLI extension for [Cacti](http://repository.ow2.org/nexus/content/groups/public/org/ow2/petals/petals-cli-cmd-monitoring-mo-cacti-deb/1.0.0-1.0/petals-cli-cmd-monitoring-mo-cacti-deb-1.0.0-1.0.deb).
-- The Petals CLI extension for [Nagios](http://repository.ow2.org/nexus/content/groups/public/org/ow2/petals/petals-cli-cmd-monitoring-so-nagios-deb/1.0.0-1.0/petals-cli-cmd-monitoring-so-nagios-deb-1.0.0-1.0.deb).
+- A monitoring extension for [Cacti](http://repository.ow2.org/nexus/content/groups/public/org/ow2/petals/petals-cli-cmd-monitoring-mo-cacti-deb/1.0.0-1.0/petals-cli-cmd-monitoring-mo-cacti-deb-1.0.0-1.0.deb).
+- A monitoring extension for [Nagios](http://repository.ow2.org/nexus/content/groups/public/org/ow2/petals/petals-cli-cmd-monitoring-so-nagios-deb/1.0.0-1.0/petals-cli-cmd-monitoring-so-nagios-deb-1.0.0-1.0.deb).
