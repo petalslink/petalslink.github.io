@@ -5,7 +5,7 @@ title: "Download &raquo; Petals ESB 4.2.1"
 
 # Petals ESB 4.2.x
 
-[Download Petals ESB 4.2.1](http://repository.ow2.org/nexus/content/groups/public/org/ow2/petals/petals-esb-enterprise-edition/4.2.0/petals-esb-enterprise-edition-4.2.1.zip "Petals ESB 4.2.1") (116 Mb)
+[Download Petals ESB 4.2.1](http://repository.ow2.org/nexus/content/groups/public/org/ow2/petals/petals-esb-enterprise-edition/4.2.1/petals-esb-enterprise-edition-4.2.1.zip "Petals ESB 4.2.1") (116 Mb)
 
 - Released on Februar 21<sup>th</sup>, 2014
 - Read the [New & Noteworthy](http://www.petalslink.com/en/news/latest/new-release-petals-esb-42) page or take a look at the [Release Notes](https://jira.petalslink.com/secure/IssueNavigator.jspa?mode=hide&requestId=10200)
