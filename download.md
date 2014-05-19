@@ -14,8 +14,8 @@ It embeds everything to get started with Petals ESB.
 
 A snapshot of the next major version (4.3.0) of the [Petals distribution](http://jira.petalslink.com) 
 can be downloaded 
-[here](http://repository.ow2.org/nexus/service/local/artifact/maven/content?r=snapshots&g=org.ow2.petals&a=petals-esb-enterprise-edition&v=LATEST&p=zip).
-A snapshot of the next maintenance version (4.2.2) of Petals ESB is available [here](http://repository.ow2.org/nexus/service/local/artifact/maven/content?r=snapshots&g=org.ow2.petals&a=petals-esb-enterprise-edition&v=4.2.2-SNAPSHOT&p=zip)
+[here](http://repository.ow2.org/nexus/service/local/artifact/maven/content?r=snapshots&g=org.ow2.petals&a=petals-esb-enterprise-edition&v=LATEST&p=zip).  
+A snapshot of the next maintenance version (4.2.2) of Petals ESB is available [here](http://repository.ow2.org/nexus/service/local/artifact/maven/content?r=snapshots&g=org.ow2.petals&a=petals-esb-enterprise-edition&v=4.2.2-SNAPSHOT&p=zip).
 
 # Oldies
 
