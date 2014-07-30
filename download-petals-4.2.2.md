@@ -5,7 +5,7 @@ title: "Download &raquo; Petals ESB 4.2.2"
 
 # Petals ESB 4.2.x
 
-[Download Petals ESB 4.2.2](http://repository.ow2.org/nexus/content/groups/public/org/ow2/petals/petals-esb-enterprise-edition/4.2.2/petals-esb-enterprise-edition-4.2.2.zip "Petals ESB 4.2.2") (116 Mb)
+[Download Petals ESB 4.2.2](http://repository.ow2.org/nexus/content/groups/public/org/ow2/petals/petals-esb-enterprise-edition/4.2.2/petals-esb-enterprise-edition-4.2.2.zip "Petals ESB 4.2.2") (121 Mb)
 
 - Released on August 1<sup>st</sup>, 2014
 - Read the [New & Noteworthy](http://www.petalslink.com/en/news/latest/new-release-petals-esb-42) page or take a look at the [Release Notes](https://jira.petalslink.com/secure/IssueNavigator.jspa?mode=hide&requestId=10210)
@@ -41,10 +41,10 @@ This is useful in particular for production environments.
 
 - [Petals CLI](http://repository.ow2.org/nexus/content/groups/public/org/ow2/petals/petals-cli-distrib-deb/2.1.3-1.0/petals-cli-distrib-deb-2.1.3-1.0.deb), the command-line administration tool for Petals ESB.
 - Debian packages to monitor Petals with Cacti: 
-[Base package](http://repository.ow2.org/nexus/content/groups/public/org/ow2/petals/petals-cli-cmd-monitoring-deb/1.0.0-1.0/petals-cli-cmd-monitoring-deb-1.0.1-1.0.deb) - 
+[Base package](http://repository.ow2.org/nexus/content/groups/public/org/ow2/petals/petals-cli-cmd-monitoring-deb/1.0.1-1.0/petals-cli-cmd-monitoring-deb-1.0.1-1.0.deb) - 
 [Cacti extension](http://repository.ow2.org/nexus/content/groups/public/org/ow2/petals/petals-cli-cmd-monitoring-mo-cacti-deb/1.0.0-1.0/petals-cli-cmd-monitoring-mo-cacti-deb-1.0.0-1.0.deb).
 - Debian packages to monitor Petals with Nagios: 
-[Base package](http://repository.ow2.org/nexus/content/groups/public/org/ow2/petals/petals-cli-cmd-monitoring-deb/1.0.0-1.0/petals-cli-cmd-monitoring-deb-1.0.0-1.0.deb) - 
+[Base package](http://repository.ow2.org/nexus/content/groups/public/org/ow2/petals/petals-cli-cmd-monitoring-deb/1.0.1-1.0/petals-cli-cmd-monitoring-deb-1.0.1-1.0.deb) - 
 [Nagios extension](http://repository.ow2.org/nexus/content/groups/public/org/ow2/petals/petals-cli-cmd-monitoring-so-nagios-deb/1.0.0-1.0/petals-cli-cmd-monitoring-so-nagios-deb-1.0.0-1.0.deb).
 
 Notice the base package is the same for both monitoring tools.
