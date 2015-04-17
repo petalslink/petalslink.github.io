@@ -115,6 +115,22 @@ li li li li {
     list-style-image: url("images-css/puce_b.png");
 }
 
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+   border: 1px solid #E46425;
+}
+
+th {
+    padding: 2px 15px;
+}
+
+td {
+    padding: 5px 15px;
+}
+
 
 /* Sidebar */
 
