@@ -8,7 +8,7 @@ title: "Download &raquo; Petals ESB 4.3.0"
 [Download Petals ESB 4.3.0-beta-1](http://repository.ow2.org/nexus/content/groups/public/org/ow2/petals/petals-esb-enterprise-edition/4.3.0-beta-1/petals-esb-enterprise-edition-4.3.0-beta-1.zip "Petals ESB 4.3.0-beta-1") (154 Mb)
 
 - Released on May 21<sup>st</sup>, 2015
-- New & Noteworthy (take a look at the [Release Notes](https://jira.petalslink.com/secure/IssueNavigator.jspa?mode=hide&requestId=10230):
+- New & Noteworthy (take a look at the [Release Notes](https://jira.petalslink.com/secure/IssueNavigator.jspa?mode=hide&requestId=10230)):
   - Two new components enter:
     - SE Activiti to deploy business process on the Petals service infrastructure,
     - SE Camel to create service compositions using Camel routes,
