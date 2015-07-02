@@ -10,7 +10,7 @@ title: "Download &raquo; Petals ESB 3.1.3"
 - Released on July 25<sup>nd</sup>, 2011
 - Access [the documentation](https://doc.petalslink.com/display/petalsesb31/Petals+ESB+3.1)
 
-Petals ESB 1.3.3 is a release maintenance of Petals ESB 1.3.  
+Petals ESB 3.1.3 is a release maintenance of Petals ESB 3.1.  
 Notice that in these times, Petals platform was not a complete distribution. Tools and components
 had to be downloaded separately.
 
