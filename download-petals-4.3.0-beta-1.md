@@ -1,6 +1,6 @@
 ---
 layout: standard
-title: "Download &raquo; Petals ESB 4.3.0"
+title: "Download &raquo; Petals ESB 4.3.0-beta-1"
 --- 
 
 # Petals ESB 4.3.x
