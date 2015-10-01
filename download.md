@@ -10,6 +10,13 @@ It embeds everything to get started with Petals ESB.
 
 [Access the last downloads](/download-petals-4.3.0-beta-1.html).
 
+# Latest Milestone
+
+Petals 5.0.0-M1 is provided as a complete package to discover the next major version of Petals ESB.  
+It embeds everything to get started with Petals ESB.
+
+[Access the last downloads](/download-petals-5.0.0-milestone-1.html).
+
 # Nightly Builds
 
 |     Version    |                      Description                        |   |   |
