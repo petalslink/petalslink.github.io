@@ -22,6 +22,7 @@ It embeds everything to get started with Petals ESB.
 |     Version    |                      Description                        |   |   |
 |:--------------:|:-------------------------------------------------------:|:-:|:-:|
 | 5.0.0-SNAPSHOT |    The next major version of the Petals distribution    | [Download](http://repository.ow2.org/nexus/service/local/artifact/maven/content?r=snapshots&g=org.ow2.petals&a=petals-esb-enterprise-edition&v=LATEST&p=zip) | [Changlog](https://jira.petalslink.com/secure/IssueNavigator.jspa?mode=hide&requestId=10190) |
+| 5.0.0-SNAPSHOT |     The Community Pack of Petals EE 5.0.0-SNAPSHOT      | [Download](http://repository.ow2.org/nexus/service/local/artifact/maven/content?r=snapshots&g=org.ow2.petals&a=petals-community-pack&v=LATEST&p=zip) | See the [changlog](https://jira.petalslink.com/secure/IssueNavigator.jspa?mode=hide&requestId=10190) of the associated Petals EE |
 | 4.3.0-SNAPSHOT | The next maintenance version of the Petals distribution | [Download](http://repository.ow2.org/nexus/service/local/artifact/maven/content?r=snapshots&g=org.ow2.petals&a=petals-esb-enterprise-edition&v=4.3.0-SNAPSHOT&p=zip) | [Changlog](https://jira.petalslink.com/secure/IssueNavigator.jspa?mode=hide&requestId=10230) |
 
 # Oldies
