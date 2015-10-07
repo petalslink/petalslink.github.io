@@ -62,3 +62,24 @@ This is useful in particular for production environments.
 [Nagios extension](http://repository.ow2.org/nexus/content/groups/public/org/ow2/petals/petals-cli-cmd-monitoring-so-nagios-deb/1.0.1-1.0/petals-cli-cmd-monitoring-so-nagios-deb-1.0.1-1.0.deb).
 
 Notice the base package is the same for both monitoring tools.
+
+# ZIP Archives
+
+In addition to the Petals Enterprise Edition ZIP archive, several Petals ESB variants and tools are provided as ZIP Archive.  
+This is useful in particular for development environments.
+
+- The [Minimal Petals container](http://repository.ow2.org/nexus/content/repositories/public/org/ow2/petals/petals-esb-minimal-zip/5.0.0/petals-esb-minimal-zip-5.0.0.zip) is a Petals ESB container without any extensions.
+- The default [Petals container](http://repository.ow2.org/nexus/content/repositories/public/org/ow2/petals/petals-esb-default-zip/5.0.0/petals-esb-default-zip-5.0.0.zip) is a Petals ESB container with following extension: Petals Auto-loader, Petals Artifact Repository, Petals WS-API.
+- The [auto-loader](http://repository.ow2.org/nexus/content/repositories/public/org/ow2/petals/petals-autoloader-zip/1.0.1-1.0/petals-autoloader-zip-1.0.1-1.0.zip) extension to add to a minimal Petals container.
+- The [artifact repository](http://repository.ow2.org/nexus/content/repositories/public/org/ow2/petals/petals-artifactrepository-zip/1.0.1-1.0/petals-artifactrepository-zip-1.0.1-1.0.zip) extension to add to a minimal Petals container.
+- The [web service API](http://repository.ow2.org/nexus/content/repositories/public/org/ow2/petals/petals-ws-api-zip/1.0.1-1.0/petals-ws-api-zip-1.0.1-1.0.zip) extension to add to a minimal Petals container.
+
+<!-- -->
+
+- The [Petals ESB Registry node](http://repository.ow2.org/nexus/content/repositories/public/org/ow2/petals/petals-registry-overlay-zip/1.0.0-1.0/petals-registry-overlay-zip-1.0.0-1.0.zip).
+- [Petals ESB Registry CLI](http://repository.ow2.org/nexus/content/repositories/public/org/ow2/petals/petals-registry-cli-zip/1.0.0-1.0/petals-registry-cli-zip-1.0.0-1.0.zip), the command-line administration tool for Petals ESB Registry.
+
+<!-- -->
+
+- The [Minimal Petals CLI](http://repository.ow2.org/nexus/content/repositories/public/org/ow2/petals/petals-cli/2.2.0/petals-cli-2.2.0.zip), the command-line administration tool for Petals ESB, without any extension.
+- The default [Petals CLI](http://repository.ow2.org/nexus/content/repositories/public/org/ow2/petals/petals-cli-distrib-zip/2.2.0-1.0/petals-cli-distrib-zip-2.2.0-1.0.zip), the command-line administration tool for Petals ESB with following extension: monitoring command with its Cacti and Nagios extensions, and the command to check BC SFTP connections.
