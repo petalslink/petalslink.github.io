@@ -54,6 +54,7 @@ This is useful in particular for production environments.
 <!-- -->
 
 - [Petals CLI](http://repository.ow2.org/nexus/content/groups/public/org/ow2/petals/petals-cli-distrib-deb/2.2.0-1.0/petals-cli-distrib-deb-2.2.0-1.0.deb), the command-line administration tool for Petals ESB.
+- Debian package adding commands for [BC SFTP](http://repository.ow2.org/nexus/content/repositories/public/org/ow2/petals/petals-cli-bc-sftp/1.0.1/petals-cli-bc-sftp-1.0.1.deb)
 - Debian packages to monitor Petals with Cacti: 
 [Base package](http://repository.ow2.org/nexus/content/groups/public/org/ow2/petals/petals-cli-cmd-monitoring-deb/1.0.2-1.0/petals-cli-cmd-monitoring-deb-1.0.2-1.0.deb) - 
 [Cacti extension](http://repository.ow2.org/nexus/content/groups/public/org/ow2/petals/petals-cli-cmd-monitoring-mo-cacti-deb/1.0.1-1.0/petals-cli-cmd-monitoring-mo-cacti-deb-1.0.1-1.0.deb).
