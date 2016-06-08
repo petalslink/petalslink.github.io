@@ -5,9 +5,9 @@ title: "Legal Notice"
 
 # Publisher
 
-This website is published by the [Linagora](http://www.linagora.com) company (holder of Petals Link trademark). 
+This website is published by [Linagora](http://www.linagora.com), holder of the PetalsLink trademark. 
 
-Publication Director : Alexandre ZAPOLSKY.
+Publication Director: Alexandre ZAPOLSKY.
 
 # Host
 
