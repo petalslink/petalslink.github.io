@@ -39,7 +39,7 @@ Select the right version of Petals Studio (147 Mb).
 The essential parts of Petals EE are available as Debian packages.  
 This is useful in particular for production environments.
 
-- The [Petals commons package](http://repository.ow2.org/nexus/content/groups/public/org/ow2/petals/petals-commons-deb/1.1.0/petals-commons-deb-1.1.0.deb) required for all packages.
+- The [Petals commons package](http://repository.ow2.org/nexus/content/groups/public/org/ow2/petals/petals-commons-deb/1.1.1/petals-commons-deb-1.1.1.deb) required for all packages.
 
 <!-- -->
 
