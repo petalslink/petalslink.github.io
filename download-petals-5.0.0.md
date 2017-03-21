@@ -18,21 +18,21 @@ title: "Download &raquo; Petals ESB 5.0.0"
 - Access [the Petals ESB container documentation](https://doc.petalslink.com/display/petalsesb502)
 - Access [the Petals ESB component documentation](https://doc.petalslink.com/display/petalscomponents/Petals+Components)
 
-# Petals Studio 1.3.4
+# Petals Studio 1.4.0
 
-Petals Studio 1.3.4 is a maintenance release of Petals Studio 1.3.  
-Select the right version of Petals Studio (147 Mb).
+Petals Studio 1.4.0 is the maintenance release of Petals Studio for Petals 5.0.0.  
+Select the right version of Petals Studio for your operating system.
 
-<a href="http://download.petalslink.com/petals-studio/Petals-Studio--1.3.4--linux.gtk.x86.zip"><img alt="Linux x32" src="images/linux_32.png" /></a> 
-<a href="http://download.petalslink.com/petals-studio/Petals-Studio--1.3.4--linux.gtk.x86_64.zip"><img alt="Linux x64" src="images/linux_64.png" /></a>
-<a href="http://download.petalslink.com/petals-studio/Petals-Studio--1.3.4--macosx.cocoa.x86_64.zip"><img alt="MacOS" src="images/mac.png" /></a><br />  
+<a href="http://download.petalslink.com/petals-studio/Petals-Studio--1.4.0--linux.gtk.x86.zip"><img alt="Linux x32" src="images/linux_32.png" /></a> 
+<a href="http://download.petalslink.com/petals-studio/Petals-Studio--1.4.0--linux.gtk.x86_64.zip"><img alt="Linux x64" src="images/linux_64.png" /></a>
+<a href="http://download.petalslink.com/petals-studio/Petals-Studio--1.4.0--macosx.cocoa.x86_64.zip"><img alt="MacOS" src="images/mac.png" /></a><br />  
 
-<a href="http://download.petalslink.com/petals-studio/Petals-Studio--1.3.4--win32.win32.x86.zip"><img alt="Windows x32" src="images/windows_32.png"/></a>
-<a href="http://download.petalslink.com/petals-studio/Petals-Studio--1.3.4--win32.win32.x86_64.zip"><img alt="Windows x64" src="images/windows_64.png"/></a>
+<a href="http://download.petalslink.com/petals-studio/Petals-Studio--1.4.0--win32.win32.x86.zip"><img alt="Windows x32" src="images/windows_32.png"/></a>
+<a href="http://download.petalslink.com/petals-studio/Petals-Studio--1.4.0--win32.win32.x86_64.zip"><img alt="Windows x64" src="images/windows_64.png"/></a>
 
-- Released on September 20<sup>th</sup>, 2013
-- Take a look at the [Release Notes](https://jira.petalslink.com/secure/ReleaseNote.jspa?projectId=10070&version=10402)
-- Access [the documentation](https://doc.petalslink.com/display/petalsstudio13/Petals+Studio+1.3)
+- Released on March 21<sup>th</sup>, 2017
+- Take a look at the [Release Notes](https://jira.petalslink.com/secure/ReleaseNote.jspa?projectId=10070&version=10323)
+- Access [the documentation](https://doc.petalslink.com/display/petalsstudio14/Petals+Studio+1.4)
 
 # Debian Packages
 
