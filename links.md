@@ -12,6 +12,7 @@ title: "Links"
 When the access is restricted, use <i>anonymous/anonymous</i> as credentials.
 
 * [Current source repository for Petals ESB](https://svn.petalslink.org/svnroot/trunk/product/dev/prod/ "Current source repository for Petals ESB")
+* [Additional source repositories at GitHub](https://github.com/petalslink "Additional source repositories at GitHub")
 * [Current source repository for Petals Studio](https://github.com/petalslink/petals-studio "Current source repository for Petals Studio")
 
 <!-- -->
@@ -32,7 +33,7 @@ When the access is restricted, use <i>anonymous/anonymous</i> as credentials.
 
 <!-- -->
 
-* [Petals @ Ohloh](https://www.ohloh.net/p/petals/)
+* [Petals @ Openhub](https://www.openhub.net/p/petals/)
 * [Petals @ Twitter](https://twitter.com/petalslink)
 
 # Development
@@ -49,9 +50,11 @@ When the access is restricted, use <i>anonymous/anonymous</i> as credentials.
 # Professional Support
 
 * [Petals Link](http://petalslink.com "Get support and expertise about Petals ESB")
+* [Linagora](http://linagora.com "Get support and expertise about Petals ESB")
 
-# Maven Repositories
+# Repositories
 
+* [Docker Images @ Docker Hub](https://hub.docker.com/r/petals/)
 * [Maven repository](http://maven.petalslink.com)
 * [OW2 Maven respository](http://repository.ow2.org/nexus)
 * [Old Maven repository](http://maven.ow2.org/maven2/)
