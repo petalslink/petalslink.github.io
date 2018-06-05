@@ -9,8 +9,8 @@ title: "Committers"
 * Alexandre Lagane (Linagora) - [@alagane](https://github.com/alagane)
 * Bertrand Escudié (Linagora) - [@bescudie](https://github.com/bescudie)
 * Christophe Chevalier (Linagora) - [@christophechevalier](https://github.com/christophechevalier)
-* Christophe Deneux (Linagora) - [@chrisdeneux](https://twitter.com/ChrisDENEUX) - [@cdeneux](https://github.com/cdeneux)
-* [Pierre Souquet](https://fr.linkedin.com/in/pierre-souquet-18955528) (Linagora)
+* [Christophe Deneux](https://www.linkedin.com/in/cdeneux/) (Linagora) - [@chrisdeneux](https://twitter.com/ChrisDENEUX) - [@cdeneux](https://github.com/cdeneux)
+* [Pierre Souquet](https://fr.linkedin.com/in/pierre-souquet-18955528) (Linagora) - [@psouquet](https://github.com/psouquet)
 * Vincent Zurczak (Linagora) - [@vincent-zurczak](https://github.com/vincent-zurczak) - [Blog (EN)](http://vzurczak.wordpress.com) - [Blog (FR)](http://vzurczak2.wordpress.com)
 
 # Former Committers
@@ -30,6 +30,7 @@ title: "Committers"
 * Mathieu Carrolle (Petals Link)
 * Marie Sauvage (Linagora)
 * Maxime Carpentier (Petals Link)
+* Maxime Robert (Linagora)
 * Mickaël Istria (Petals Link)
 * Mohammed El Jai (Petals Link)
 * Nicolas Oddoux (Petals Link)
@@ -41,6 +42,7 @@ title: "Committers"
 * Sandra Trino (Petals Link)
 * Sébastien André (Petals Link)
 * Thierry Déjean (Petals Link)
+* Victor Noël (Linagora)
 
 # Contributors
 
