@@ -5,7 +5,6 @@
 [![Web site](https://img.shields.io/badge/website-petals.ow2.org-712e7f.svg)](http://petals.ow2.org)
 
 This repository contains the sources for the web site of Petals ESB, the the open-source Enterprise Service Bus.
-
 On every commit, a [routine](http://jekyllrb.com/) is executed. It generates static HTML files and hosts
 them on [GitHub pages](https://pages.github.com/).
 
