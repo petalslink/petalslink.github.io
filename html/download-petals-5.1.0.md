@@ -35,6 +35,10 @@ Select the right version of Petals Studio for your operating system.
 - Take a look at the [Release Notes](https://jira.petalslink.com/secure/ReleaseNote.jspa?projectId=10070&version=10323)
 - Access [the documentation](https://doc.petalslink.com/display/petalsstudio14/Petals+Studio+1.4)
 
+# Docker Images
+
+Docker images for Petals can be downloaded from [Docker Hub](https://hub.docker.com/u/petals/).
+
 # Debian Packages
 
 The essential parts of Petals EE are available as Debian packages.
