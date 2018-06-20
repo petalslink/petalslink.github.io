@@ -8,9 +8,12 @@ title: "Source Code Repositories"
 As Petals suite is divided in many sub-projects, history separated them over several repositories.
 In the next months, we plan a full reorganization of our source code infrastructure around one central solution: Git. For now, use the following to check out the code.
 
-+ Source code for Petals ESB, Petals Components and Web Tools is located on Subversion.<br />[https://svn.petalslink.org/svnroot/trunk/product/dev/prod/](https://svn.petalslink.org/svnroot/trunk/product/dev/prod/"Petals ESB and components source repository")<br />Credentials are <i>anonymous/anonymous</i>
++ Source code for Petals ESB, Petals Components and Web Tools is located on Subversion.<br />[https://svn.petalslink.org/svnroot/trunk/product/dev/prod/](https://svn.petalslink.org/svnroot/trunk/product/dev/prod/ "Petals ESB and components source repository")<br />Credentials are <i>anonymous/anonymous</i>
 
-+ Source code for Petals Studio is on GitHub.<br />[https://github.com/petalslink/petals-studio](https://github.com/petalslink/petals-studio"Petals Studio source repository")
++ Source code for Petals Studio is on GitHub.<br />[https://github.com/petalslink/petals-studio](https://github.com/petalslink/petals-studio "Petals Studio source repository")
+
++ Source code for Petals Cockpit is on Linagora's GitLab instance.<br />
+[https://gitlab.com/linagora/petals-cockpit/](https://gitlab.com/linagora/petals-cockpit/ "Petals Cockpit's sources")
 
 # Old Repositories
 
