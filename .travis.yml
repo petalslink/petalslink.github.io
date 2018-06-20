@@ -6,7 +6,7 @@ language: ruby
 # Run in container-based infrastructure
 sudo: false
 rvm:
-  - 2.1
+  - 2.2
 
 script:
   - bundle exec jekyll build
