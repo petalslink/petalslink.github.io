@@ -58,6 +58,11 @@ img {
 
 #explanation-img {
 	margin: 15px 0;
+	width: 600px;
+}
+
+#explanation-img-wrapper {
+	text-align: center;
 }
 
 #download-img-wrapper {
@@ -198,6 +203,11 @@ td {
 #banner {
     width: 300px;
     float: left;
+}
+
+#banner img {
+	width: 260px;
+	margin-bottom: 20px;
 }
 
 #nav{
