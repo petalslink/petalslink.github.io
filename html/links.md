@@ -49,7 +49,6 @@ When the access is restricted, use <i>anonymous/anonymous</i> as credentials.
 
 # Professional Support
 
-* [Petals Link](http://petalslink.com "Get support and expertise about Petals ESB")
 * [Linagora](http://linagora.com "Get support and expertise about Petals ESB")
 
 # Repositories
