@@ -14,7 +14,7 @@ In the next months, we plan a full reorganization of our source code infrastruct
 
 + Source code for Petals Studio is on GitHub.<br />[https://github.com/petalslink/petals-studio](https://github.com/petalslink/petals-studio "Petals Studio source repository")
 
-+ Source code for Petals Cockpit is on Linagora's GitLab instance.<br />
++ Source code for Petals Cockpit is on GitLab.<br />
 [https://gitlab.com/linagora/petals-cockpit/](https://gitlab.com/linagora/petals-cockpit/ "Petals Cockpit's sources")
 
 # Old Repositories
