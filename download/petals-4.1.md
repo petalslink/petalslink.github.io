@@ -1,6 +1,7 @@
 ---
 layout: standard
 title: "Download &raquo; Petals ESB 4.1"
+menu: "download"
 ---
 
 # Petals ESB 4.1.x
@@ -29,4 +30,5 @@ Select the right version of Petals Studio (147 Mb).
 
 # Archives
 
-You can download older versions of Petals Studio for Petals ESB 4.1.x [here](download-petals-4.1-archives.html).
+You can download older versions of Petals Studio for Petals ESB 4.1.x [here](petals-4.1-archives.html).
+

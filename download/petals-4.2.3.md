@@ -1,6 +1,7 @@
 ---
 layout: standard
 title: "Download &raquo; Petals ESB 4.2.3"
+menu: "download"
 ---
 
 # Petals ESB 4.2.x
@@ -48,3 +49,4 @@ This is useful in particular for production environments.
 [Nagios extension](http://repository.ow2.org/nexus/content/groups/public/org/ow2/petals/petals-cli-cmd-monitoring-so-nagios-deb/1.0.0-1.0/petals-cli-cmd-monitoring-so-nagios-deb-1.0.0-1.0.deb).
 
 Notice the base package is the same for both monitoring tools.
+

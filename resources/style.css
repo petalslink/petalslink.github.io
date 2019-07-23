@@ -1,105 +1,112 @@
 /**
- * Copyright (c) Petals Link - 2012
+ * Copyright (c) Linagora, 2012-2019
  **/
 
 * {
-	margin: 0; padding: 0; list-style: none;
+	margin: 0;
+	padding: 0;
+	list-style: none;
 }
 
 
 body {
-	background:url("images-css/background.gif") no-repeat scroll center top transparent;
-	color: #333333;
-	font: 76% Verdana,Arial,Helvetica,sans-serif;
+	font: @import url("https://fonts.googleapis.com/css?family=Titillium+Web:200,300,400,600,700");
 }
 
 h1 {
-  color: #B04D1C;
-  font-size: 1.3em;
-  padding-top: 5px;
+	color: #E46425;
+	font-size: 1.3em;
+	padding-top: 5px;
+	margin: 0 0 13px 0;
 }
 
-a {
-  font-weight: bold;
-  text-decoration: none;
+h1:not(:first-child) {
+	margin-top: 40px;
 }
 
-a:visited, a:link {
-    color: #783187;
+a, a:visited, a:link {
+	font-weight: bold;
+	text-decoration: none;
+	color: #444;
 }
 
-a:hover {
-    color: #A37DAE;
-    text-decoration: underline;
+a:hover, .active {
+	color: #E46425 !important;
 }
 
 img {
 	border: none;
 }
 
+p {
+	line-height: 1.6em;
+	text-align: justify;
+	margin-bottom: 10px;
+}
+
+#top {
+	text-align: center;
+	position: fixed;
+	background-color: #ffffff;
+	top: 0;
+	left: 0;
+	right: 0;
+	height: 190px;
+	border-bottom: solid black 2px;
+}
+
+#top img {
+	height: 100px;
+	margin-top: 20px;
+	margin-bottom: 34px;
+}
+
+#top > a {
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+#top > a.active-menu {
+	color: #E46425;
+}
+
 #wrapper {
-	width:1000px;
-	margin:auto;
-	min-height:520px;
-	margin-top:80px;
+	min-height: 520px;
+	width: 70%;
+	margin: 200px auto 0;
+	padding-left: 10%;
+	padding-right: 10%;
+	padding-top: 40px;
+}
+
+#footer {
+	text-align: center;
+	padding-top: 190px;
+	padding-bottom: 12px;
+	clear: both;
+}
+
+#sidebar {
+	max-width: 300px;
+	padding: 0 20px;
+	position: fixed;
+	top: 240px;
+	right: 20%;
+}
+
+#sidebar > p {
+	color: #777777;
+	font-size: 1.2em;
+	font-weight: bold;
+	padding: 3px 18px 3px 18px;
+	border-left: solid black 1px;
+	margin: 0;
+	text-align: right;
 }
 
 #content {
-	width:72%;
-	margin-left: 0.5%;
-	float: left;
-	clear: left;
-}
-
-#download-button {
-	text-align:center;
-	margin: 7px 0 15px 0;
-}
-
-#explanation-img {
-	margin: 15px 0;
-	width: 700px;
-}
-
-#explanation-img-wrapper {
-	text-align: center;
-}
-
-#download-img-wrapper {
-	text-align: center;
-	margin: 18px auto;
-}
-
-p {
-  line-height:1.6em;
-  text-align:justify;
-  margin-bottom: 10px;
-}
-
-h1 {
-	margin: 18px 0 13px 0;
-}
-
-h1.title {
-  background: url("images-css/h1_underline.png") no-repeat scroll 0 100% transparent;
-  color: #777777;
-  font-size: 1.5em;
-  font-weight: bold;
-  padding-bottom: 5px;
-  padding-top: 5px;
-  margin-top: 0px;
-}
-
-h2 {
-    color: #492562;
-    font-size: 1.2em;
-    padding-top: 3px;
-}
-
-h3 {
-    color: #E46425;
-    font-size: 1em;
-    font-weight: bold;
+	max-width: 60%;
+	padding-right: 15%;
 }
 
 #content ul {
@@ -107,232 +114,73 @@ h3 {
 }
 
 #content ul li {
-    list-style-image: url("images-css/puce_v.png") !important;
+	list-style-type: disc;
 }
 
-li li {
-    list-style-image: url("images-css/puce_o.png");
+#content > .float {	
+	float: left;
 }
-li li li {
-    list-style-image: url("images-css/puce_g.png");
-}
-li li li li {
-    list-style-image: url("images-css/puce_b.png");
+
+#content img {
+	max-width: 80%;
+	max-height: 240px;
+	margin: auto 0;
 }
 
 table {
-    border-collapse: collapse;
+	border-collapse: collapse;
 }
 
 table, th, td {
-   border: 1px solid #E46425;
+	 border: 1px solid #E46425;
 }
 
 th {
-    padding: 2px 15px;
+	padding: 2px 15px;
 }
 
 td {
-    padding: 5px 15px;
+	padding: 5px 15px;
 }
 
+/* Responsive */
 
-/* Sidebar */
+@media all and (max-width: 1200px) {
 
-#sidebar{
-	min-width:200px;
-	width:25%;
-	float:right;
+	#sidebar {
+		display: none;
+	}
+	
+	#wrapper {
+		width: 100%;
+		padding: 40px 0 0 0;
+	}
+	
+	#content {
+		width: 90%;
+		padding-right: 0;
+		margin: 0 auto;
+	}
 }
 
-#sidebar h2 {
-	color: #646464;
-	text-align: center;
-	padding: 3px 15px;
-	-webkit-border-radius: 15px;
-	-moz-border-radius: 15px;
-	border-radius: 15px;
-	background-color: #e8e8e8;
-	border: solid #babbbb 1px;
-	font-size: 13px;
-	margin-bottom: 10px;
+@media all and (max-height: 500px) {
+
+	#top > a {
+		display: inline-block;
+	}
+	
+	#top {
+		height: 120px;
+	}
+
+	#top img {
+		height: 40px;
+		margin-top: 10px;
+		margin-bottom: 12px;
+	}
+	
+	#wrapper {
+		margin-top: 120px;
+	}
 }
 
-#sidebar h2 + p {
-	text-align:center;
-	margin:0 0 15px 0;
-	padding:0 5px;
-}
-
-#articles, #networks {
-	margin-top: 15px;
-}
-
-
-/*---------- COMMUNITY GALAXY ---------- */
-/*----------- GALAXY CSS -------------*/
-
-#galaxy {
-    background: url('images-css/galaxy_line.gif') repeat-x;
-    clear: both;
-    padding-left:40%;
-    width:100%;
-}
-
-#galaxy a {
-    font-family: Verdana,Arial,Helvetica,sans-serif;
-    font-weight: bold;
-    font-size: 11px;
-    text-decoration: none;
-	color: #783187;
-	padding: 2px 10px;
-}
-
-#galaxy a.active, #galaxy a:hover {
-    background-color: #834190;
-	color: white;
-}
-
-/*---------- COMMUNITY HEADER  ----------*/
-#menus {
-    width: 1000px;
-    margin: auto;
-	margin-top: 6px;
-}
-
-#banner {
-    width: 300px;
-    float: left;
-}
-
-#banner img {
-	width: 260px;
-	margin-bottom: 20px;
-}
-
-#nav{
-	background: url('images-css/back_menu.png') repeat-x;
-	height: 26px;
-	font-weight: bold;
-	margin-bottom: 10px;
-	border: 1px solid #B9B9B9;
-	margin-left: 373px;	/*ancienne valeur 2 avec 4 items de menu : 375px. Ancienne valeur 340px avec le logo Petals classique.*/
-	margin-right: 17px; 	/*ancienne valeur avec les 4 items de niveau 1: 100px*/
-	padding-left: 0px;
-	position: relative;
-	top: 50px;
-}
-
-#nav li{
-	float:left;
-	position:relative;
-}
-
-#nav a {
-	display: block;
-	height: 26px;
-	padding: 3px 10px;
-	color: #646464;
-	font-family: Verdana,Arial,Helvetica,sans-serif;
-	font-size: 13px;
-	text-decoration: none;
-}
-
-
-#nav a:hover, #nav a.select{
-    background: url("images-css/back_menu_hover.png") repeat-x scroll center top transparent;
-    color: white;
-    text-decoration:none;
-}
-
-/*--- DROPDOWN ---*/
-
-#nav ul{
-    color: #646464;
-    float: left;
-    padding: 0px 5px;
-    position: absolute;
-    left: -9999px;
-}
-
-#nav ul li {
- float: none;
- left: -5px;
- list-style: none outside none;
- height:32px;
- top: -5px;
-}
-
-#nav ul a{
-	white-space: nowrap;
-}
-
-#nav li:hover ul{
-	left:0; /* Bring back on-screen when needed */
-}
-
-#nav li:hover a {
-    background: url("images-css/back_menu_hover.png") repeat-x scroll center top transparent;
-    color: #FFFFFF;
-}
-
-#nav li:hover ul a {
-    background-image:none;
-    background-color:#F3F3F3;
-    color: #646464;
-}
-
-#nav li:hover ul li a:hover {
-	background: url("images-css/back_menu_hover.png") repeat-x scroll center top transparent;
-	color: white;
-}
-
-/*
- *  "Disable" root links in the menu.
- *  Works with Firefox 3.6+, Safari 3+, Chrome 5+ & IE 8+.
- */
-a.fhidden {
-	pointer-events: none;
-	cursor: default;
-}
-
-
-/* RSS + Tweets + Networks */
-
-.rssBody li, .tweet_list li {
-	margin: 0 20px;
-	font-size: 11px;
-	padding: 5px;
-	overflow: hidden;
-}
-
-.tweet_list .tweet_even {
-	background-color: #EEE;
-}
-
-p.sociaux {margin:10px 0 0 40px !important;}
-.sociaux a:hover img {width:40px ; height:40px; margin-top:-5px;margin-left:-5px;} /* agrandi les images lors du survol */
-
-
-/*---------- COMMUNITY FOOTER ---------- */
-
-#footer {
-	text-align: center;
-	background: url('images-css/footer_8.0.gif') no-repeat center;
-	padding-top: 190px;
-	clear: both;
-}
-
-#footer a {
-  color: #783187;
-  font-weight: bold;
-  text-decoration: none;
-  font-size:10px;
-  font-family: Verdana,Arial,Helvetica,sans-serif;
-  padding: 2px 10px;
-  border-right: solid #783187 1px;
-}
-
-#footer a.last-link {
-	border-right: none;
-}

@@ -1,7 +1,27 @@
 ---
 layout: standard
 title: "Committers"
+menu: "community"
 ---
+
+# Community
+
+* [Documentation](http://doc.petalslink.com)
+* [Forum](http://forum.petalslink.com/ "Get support from the community about Petals")
+* [Twitter Account](https://twitter.com/petalsesb)
+* [Openhub Page](https://www.openhub.net/p/petals/)
+* [Professional Support](http://linagora.com "Get support and expertise about Petals ESB")
+
+
+# Tools
+
+* [Issue Tracker](http://jira.petalslink.com)
+* [Continuous Integration](http://jenkins.petalslink.com)
+* [Sonar Instance](http://sonar.petalslink.com/)
+* [Maven Repository](https://repo1.maven.org/maven2/org/ow2/petals/ "Maven Central")
+* [Docker Repository](https://hub.docker.com/r/petals/ "Docker Hub")
+
+
 # Active Committers
 
 *Active committers on Petals ESB and related projects.*
@@ -12,6 +32,7 @@ title: "Committers"
 * [Christophe Deneux](https://www.linkedin.com/in/cdeneux/) (Linagora) - [@chrisdeneux](https://twitter.com/ChrisDENEUX) - [@cdeneux](https://github.com/cdeneux)
 * [Pierre Souquet](https://fr.linkedin.com/in/pierre-souquet-18955528) (Linagora) - [@psouquet](https://github.com/psouquet)
 * Vincent Zurczak (Linagora) - [@vincent-zurczak](https://github.com/vincent-zurczak) - [Blog (EN)](http://vzurczak.wordpress.com) - [Blog (FR)](http://vzurczak2.wordpress.com)
+
 
 # Former Committers
 
@@ -44,6 +65,7 @@ title: "Committers"
 * Thierry Déjean (Petals Link)
 * Victor Noël (Linagora)
 
+
 # Contributors
 
 *People who contributed to the Petals project.*
@@ -54,3 +76,4 @@ title: "Committers"
 * Marc Dutoo (Open Wide)
 * Nicolas Dolet (INRIA)
 * Philippe Merle (INRIA)
+

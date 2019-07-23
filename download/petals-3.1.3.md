@@ -1,6 +1,7 @@
 ---
 layout: standard
 title: "Download &raquo; Petals ESB 3.1.3"
+menu: "download"
 ---
 
 # Petals ESB 3.1.3
@@ -77,3 +78,4 @@ Select the right version of Petals Studio (150 Mb).
 - Released on September 14<sup>th</sup>, 2011
 - Read the [New & Noteworthy](https://doc.petalslink.com/display/petalsstudio12/New+and+Noteworthy) page or take a look at the [Release Notes](https://jira.petalslink.com/secure/ReleaseNote.jspa?projectId=10070&version=10079)
 - Access [the documentation](https://doc.petalslink.com/display/petalsstudio12/Petals+Studio+1.2)
+

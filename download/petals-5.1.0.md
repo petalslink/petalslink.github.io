@@ -1,6 +1,7 @@
 ---
 layout: standard
 title: "Download &raquo; Petals ESB 5.1.0"
+menu: "download"
 ---
 
 # Petals EE 5.1.0
@@ -93,3 +94,4 @@ This is useful in particular for development environments.
 # Community Pack
 
 Now, each version of Petals ESB Enterprise can be completed by elements delivered with the [Community Pack for Petals EE](http://repository.ow2.org/nexus/content/repositories/public/org/ow2/petals/petals-community-pack/5.1.0/petals-community-pack-5.1.0.zip). This pack contains extra components and shared libraries.
+
