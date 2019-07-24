@@ -20,7 +20,7 @@ docker run --rm \
 	--name=petals-website \
 	--volume=$(pwd):/srv/jekyll \
 	-it -p 4000:4000 \
-	jekyll/jekyll jekyll serve
+	jekyll/jekyll:3.8 jekyll serve
 ```
 
 ... or you can install [Jekyll](http://jekyllrb.com/) directly on your machine.  
@@ -30,6 +30,7 @@ Then, use...
 * `bundle exec jekyll build` to simply generate static HTML files.
 * `sudo bundle install` to resolve problems about missing gems or dependencies.
 
+Then, open [http://localhost:4000](http://localhost:4000)  
 You will find more information on [Github's web site](https://help.github.com/articles/setting-up-your-pages-site-locally-with-jekyll/).
 
 
