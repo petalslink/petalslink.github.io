@@ -13,9 +13,14 @@ them on [GitHub pages](https://pages.github.com/).
 
 To build the web site locally, you can use Docker...
 
-```
+```bash
 cd petalslink.github.io/
-docker run --rm --label=jekyll --name=petals-website --volume=$(pwd):/srv/jekyll -it -p 4000:4000 jekyll/jekyll jekyll serve
+docker run --rm \
+	--label=jekyll \
+	--name=petals-website \
+	--volume=$(pwd):/srv/jekyll \
+	-it -p 4000:4000 \
+	jekyll/jekyll jekyll serve
 ```
 
 ... or you can install [Jekyll](http://jekyllrb.com/) directly on your machine.  
