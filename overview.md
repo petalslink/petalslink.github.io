@@ -45,7 +45,7 @@ Petals ESB supports many communication protocols (SOAP over HTTP/S, Mail, FTP, S
 
 <h1 title="Unique Selling Proposition" id="usp">USP</h1>
 
-Unlike many ESB from the market, Petals focuses on [enterprise architecture](https://en.wikipedia.org/wiki/Enterprise_architecture) issues and at being the back-bone of an Information System. Petals artifacts find easily their equivalent in architecture methodologies and their various layers: functional, logical, physical, etc. Petals also promotes the use of BPM (Business Process Modeling) approaches, even if it is not the trend anymore. Petals ESB includes [Flowable](https://www.flowable.org/), a Business Process engine, as one of its components. This allows to mix automated processes and human-based interactions such as forms.
+Unlike many ESB from the market, Petals focuses on [enterprise architecture](https://en.wikipedia.org/wiki/Enterprise_architecture) issues and at being the back-bone of an Information System. Petals artifacts find easily their equivalent in architecture methodologies and their various layers: functional, logical, physical, etc. Petals also promotes the use of BPM (Business Process Management) approaches, even if it is not the trend anymore. Petals ESB includes [Flowable](https://www.flowable.org/), a BPMN 2.0 engine, as one of its components. This allows to mix automated processes and human-based interactions such as forms.
 
 <a href="/resources/images/flowable.jpg">
 	<img src="/resources/images/flowable.jpg" alt="Overview of an executable BPMN diagram in Flowable Modeler" />
@@ -62,10 +62,12 @@ Integration approches are also supported thanks to [Apache Camel](https://camel.
 
 # Open Source
 
-As we believe sharing is beneficial for all, releases of Petals ESB, related components and tools are open source.
+As we believe sharing is beneficial for all, releases of Petals ESB, related components and tools are 100% open source.
 We try to keep our products as open as possible, while being respectful of the license of libraries / products we reuse.
 
 * Petals ESB and its components are published under the terms of the [LGPL 2.1](http://www.gnu.org/licenses/lgpl-2.1.html "Lesser General Public License v2.1").
 * Petals Cockpit is published under the terms of the [AGPL 3.0](https://gitlab.com/linagora/petals-cockpit/blob/master/LICENSE.md "Affero General Public License").
 * Petals Studio, based on Eclipse, is published under the terms of the [EPL 1.0](http://www.eclipse.org/legal/epl-v10.html "Eclipse Public License 1.0").
+
+[Professional support](support.html) is also available.
 
