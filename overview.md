@@ -8,7 +8,7 @@ menu: "overview"
 
 Petals ESB is an open-source Enterprise Service Bus (ESB).  
 More concretely, Petals ESB is a Java platform based on SOA principles to interconnect heterogeneous systems, applications and services.
-It acts as a mediation and a communication layer in Information Systems. Its architecture and supported standards make it a valuable solution for both integration, SOA projects and Information System urbanization.
+It acts as a mediation and a communication layer in Information Systems. Its architecture and supported standards make it a valuable solution for both integration, SOA projects and enterprise architectures.
 
 
 <h1 title="Service Oriented Architectures" id="soa">SOA</h1>
@@ -21,7 +21,7 @@ by a contract. Mapping applications and systems with service providers and consu
 
 # Standards
 
-Petals ESB supports many communication protocols (SOAP over HTTP/S, Mail, FTP, SFTP...). It also supports several standards, including web services, WS-Security, XSLT, XML Schema, EIP, BPMN 2.0...
+Petals ESB supports many communication protocols (SOAP over HTTP/S, Mail, FTP, SFTP...). It also supports several standards, including web services, WS-Security, XSLT, XML Schema, Enterprise Integration Patterns (EIP), BPMN 2.0...
 
 
 # Main features
@@ -45,7 +45,7 @@ Petals ESB supports many communication protocols (SOAP over HTTP/S, Mail, FTP, S
 
 <h1 title="Unique Selling Proposition" id="usp">USP</h1>
 
-Unlike many ESB from the market, Petals focuses on urbanization issues and at being the back-bone of an Information System. Petals artifacts find easily their equivalent in architecture methodologies and their various layers: functional, logical, physical, etc. Petals also promotes the use of BPM (Business Process Modeling) approaches, even if it is not the trend anymore. Petals ESB includes [Flowable](https://www.flowable.org/), a Business Process engine, as one of its components.
+Unlike many ESB from the market, Petals focuses on [enterprise architecture](https://en.wikipedia.org/wiki/Enterprise_architecture) issues and at being the back-bone of an Information System. Petals artifacts find easily their equivalent in architecture methodologies and their various layers: functional, logical, physical, etc. Petals also promotes the use of BPM (Business Process Modeling) approaches, even if it is not the trend anymore. Petals ESB includes [Flowable](https://www.flowable.org/), a Business Process engine, as one of its components. This allows to mix automated processes and human-based interactions such as forms.
 
 <a href="/resources/images/flowable.jpg">
 	<img src="/resources/images/flowable.jpg" alt="Overview of an executable BPMN diagram in Flowable Modeler" />

@@ -9,23 +9,20 @@ menu: "download"
 [Download Petals ESB 5.2.0](https://repository.ow2.org/nexus/content/groups/public/org/ow2/petals/petals-esb-enterprise-edition/5.2.0/petals-esb-enterprise-edition-5.2.0.zip "Petals ESB 5.2.0") (167 Mb)
 
 - Released on October 1<sup>st</sup>, 2018
-- New & Noteworthy (take a look at the [Release Notes](https://jira.petalslink.com/secure/IssueNavigator.jspa?mode=hide&requestId=10260)):
-  - This release comes mainly with
-    - Java 8 is now required,
-    - Improvements on components:
-      - Petals BC Rest was been reworked to improve its consumer side,
-      - Petals BC SOAP: WS-Security was reworked upgrading to Apache Axis 2 1.7.7 and is now fully based on WS-Policy,
-      - Petals SE Flowable was reworked to manage correctly WSDL imported by process definition,
-      - Rework of concurrent processings of service providers based on Petals SE POJO,
-    - New commands on Petals ESB CLI about Petals SE Flowable 
-  - Several bug fixes and other improvements:
-    - Upgrade of Apache Commons Pool because of a memory leak
+- The release notes are available [here](https://jira.petalslink.com/secure/IssueNavigator.jspa?mode=hide&requestId=10260).
+
+- Java 8 is now required.
+- Improvements on components:
+  - Petals BC Rest was been reworked to improve its consumer side.
+  - Petals BC SOAP: WS-Security was reworked upgrading to Apache Axis 2 1.7.7 and is now fully based on WS-Policy.
+  - Petals SE Flowable was reworked to manage correctly WSDL imported by process definition. That includes a rework of concurrent processings by service providers (based on Petals SE POJO) and new commands on Petals ESB CLI about Petals SE Flowable.
+  - Several bug fixes and other improvements, including an upgrade of Apache Commons Pool (fix for a memory leak).
 - Access [the Petals ESB container documentation](https://doc.petalslink.com/display/petalsesb520)
 - Access [the Petals ESB component documentation](https://doc.petalslink.com/display/petalscomponents/Petals+Components)
 
 # Petals Studio 1.4.0
 
-Petals Studio 1.4.0 is the maintenance release of Petals Studio for Petals 5.0.0/5.1.0/5.2.0.
+Petals Studio 1.4.0 is the maintenance release of Petals Studio for Petals 5.0.0 / 5.1.0 / 5.2.0.
 Select the right version of Petals Studio for your operating system.
 
 <a href="http://download.petalslink.com/petals-studio/Petals-Studio--1.4.0--linux.gtk.x86.zip"><img alt="Linux x32" src="/resources/images/linux_32.png" /></a>

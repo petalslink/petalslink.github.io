@@ -9,20 +9,20 @@ menu: "download"
 [Download Petals ESB 5.1.0](http://repository.ow2.org/nexus/content/repositories/public/org/ow2/petals/petals-esb-enterprise-edition/5.1.0/petals-esb-enterprise-edition-5.1.0.zip "Petals ESB 5.1.0") (154 Mb)
 
 - Released on Febr. 15<sup>th</sup>, 2018
-- New & Noteworthy (take a look at the [Release Notes](https://jira.petalslink.com/secure/IssueNavigator.jspa?mode=hide&requestId=10256)):
-  - This release comes mainly with improvements on components:
-    - Petals BC Rest was been reworked to improve its provider side,
-    - Petals BC Mail is now able to provides your own services, the internal port type is no more required,
-    - Petals SE Activiti has been replaced and improved by Petals SE Flowable
-    - Petals SE Mapping is a new service engine to "facadize" an existing service provider
-  - Maven URLs are not supported by Petals CLI and Petals ESB to deploy artefacts (SL, BC, SE or SA),
+- The release notes are available [here](https://jira.petalslink.com/secure/IssueNavigator.jspa?mode=hide&requestId=10256).
+- This release comes mainly with improvements on components:
+  - Petals BC Rest was been reworked to improve its provider side.
+  - Petals BC Mail is now able to provides your own services, the internal port type is no more required.
+  - Petals SE Activiti has been replaced and improved by Petals SE Flowable.
+  - Petals SE Mapping is a new service engine to "facadize" an existing service provider.
+  - Maven URLs are now supported by Petals CLI and Petals ESB to deploy artefacts (SL, BC, SE or SA).
   - A lot of bug fixes and other improvements.
 - Access [the Petals ESB container documentation](https://doc.petalslink.com/display/petalsesb510)
 - Access [the Petals ESB component documentation](https://doc.petalslink.com/display/petalscomponents/Petals+Components)
 
 # Petals Studio 1.4.0
 
-Petals Studio 1.4.0 is the maintenance release of Petals Studio for Petals 5.0.0/5.1.0.
+Petals Studio 1.4.0 is the maintenance release of Petals Studio for Petals 5.0.0 / 5.1.0.
 Select the right version of Petals Studio for your operating system.
 
 <a href="http://download.petalslink.com/petals-studio/Petals-Studio--1.4.0--linux.gtk.x86.zip"><img alt="Linux x32" src="/resources/images/linux_32.png" /></a>

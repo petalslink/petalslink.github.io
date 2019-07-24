@@ -15,10 +15,10 @@ To build the web site locally, you can use Docker...
 
 ```
 cd petalslink.github.io/
-docker run --rm --label=jekyll --volume=$(pwd):/srv/jekyll -it -p 4000:4000 jekyll/jekyll jekyll serve
+docker run --rm --label=jekyll --name=petals-website --volume=$(pwd):/srv/jekyll -it -p 4000:4000 jekyll/jekyll jekyll serve
 ```
 
-... or you can install [Jekyll](http://jekyllrb.com/) directly on your machine.
+... or you can install [Jekyll](http://jekyllrb.com/) directly on your machine.  
 Then, use...
 
 * `bundle exec jekyll serve -w` to run a web server locally.
@@ -26,3 +26,30 @@ Then, use...
 * `sudo bundle install` to resolve problems about missing gems or dependencies.
 
 You will find more information on [Github's web site](https://help.github.com/articles/setting-up-your-pages-site-locally-with-jekyll/).
+
+
+## Testing the Web Site
+
+Beyond manual tests, we have a program that can verify the correctness of the HTML pages,
+as well as the validity of all the links (both internal and external). This process is part of
+the continuous integration.
+
+It is also possible to run it on your local machine.  
+Make sure to have Jekyll installed or started as a Docker container, as described above. If you
+run it as a Docker container, open a new terminal and type in...
+
+```bash
+# Connect into the Jekyll container that runs the web site
+docker exec -ti petals-website bash
+
+# Execute the validation program
+bundle exec htmlproofer ./_site --only-4xx --check-favicon --check-html --allow-hash-href
+```
+
+If you installed Jekyll directly on your machine, just go to the root of the project, open a terminal
+and type in...
+
+```bash
+bundle exec htmlproofer ./_site --only-4xx --check-favicon --check-html --allow-hash-href
+```
+

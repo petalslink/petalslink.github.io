@@ -27,7 +27,3 @@ Select the right version of Petals Studio (148 Mb).
 - Read the [New & Noteworthy](https://doc.petalslink.com/display/petalsstudio13/New+and+Noteworthy) page or take a look at the [Release Notes](https://jira.petalslink.com/secure/ReleaseNote.jspa?projectId=10070&version=10322)
 - Access [the documentation](https://doc.petalslink.com/display/petalsstudio13/Petals+Studio+1.3)
 
-# Archives
-
-You can download older versions of Petals Studio for Petals ESB 4.0.x [here](petals-4.0-archives.html).
-
