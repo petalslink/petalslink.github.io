@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/petalslink/petalslink.github.io.svg?branch=master)](https://travis-ci.org/petalslink/petalslink.github.io)
 [![License](https://img.shields.io/badge/license-Creative%20Commons-blue.svg)](http://creativecommons.org/licenses/by/3.0/)
-[![Web site](https://img.shields.io/badge/website-petals.ow2.org-712e7f.svg)](http://petals.ow2.org)
+[![Web site](https://img.shields.io/badge/website-petals.linagora.com-712e7f.svg)](http://petals.linagora.com)
 
 This repository contains the sources for the web site of Petals ESB, the the open-source Enterprise Service Bus.
 On every commit, a [routine](http://jekyllrb.com/) is executed. It generates static HTML files and hosts
