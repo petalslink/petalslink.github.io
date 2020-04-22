@@ -79,9 +79,16 @@ p {
 	padding-top: 40px;
 }
 
+#lottie > svg {
+	display: block;
+	width: 80% !important;
+	margin-left: auto;
+	margin-right: auto;
+}
+
 #footer {
 	text-align: center;
-	padding-top: 190px;
+	padding-top: 60px;
 	padding-bottom: 12px;
 	clear: both;
 }
@@ -183,4 +190,3 @@ td {
 		margin-top: 120px;
 	}
 }
-

@@ -14,6 +14,10 @@ The official Petals documentation is available at [doc.petalslink.com](https://d
 The Petals team has written several white papers.
 
 * [A series of articles](https://blog.linagora.com/vision-des-esbs-par-un-architecte-dentreprise-ou-ce-que-devraient-etre-les-esbs/) written by an Enterprise Architect (in French).
+* In French: [Petals ESB, un bus de services](resources/pdf/Livre_blanc_ESB_Petals.pdf)
+* [How to choose your process orchestration technology?](resources/pdf/white_paper_orchestration.pdf)
+
+Various presentations are also available on [Slide Share](https://slideshare.net/petalslink).
 
 
 # Community Support

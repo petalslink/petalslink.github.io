@@ -10,6 +10,7 @@ menu: "community"
 * [Forum](http://forum.petalslink.com/ "Get support from the community about Petals")
 * [Twitter Account](https://twitter.com/petalsesb)
 * [Openhub Page](https://www.openhub.net/p/petals/)
+* [Slide Share](https://slideshare.net/petalslink)
 * [Professional Support](http://linagora.com "Get support and expertise about Petals ESB")
 
 
@@ -31,7 +32,6 @@ menu: "community"
 * Christophe Chevalier (Linagora) - [@christophechevalier](https://github.com/christophechevalier)
 * [Christophe Deneux](https://www.linkedin.com/in/cdeneux/) (Linagora) - [@chrisdeneux](https://twitter.com/ChrisDENEUX) - [@cdeneux](https://github.com/cdeneux)
 * [Pierre Souquet](https://fr.linkedin.com/in/pierre-souquet-18955528) (Linagora) - [@psouquet](https://github.com/psouquet)
-* Vincent Zurczak (Linagora) - [@vincent-zurczak](https://github.com/vincent-zurczak) - [Blog (EN)](http://vzurczak.wordpress.com) - [Blog (FR)](http://vzurczak2.wordpress.com)
 
 
 # Former Committers
@@ -64,6 +64,7 @@ menu: "community"
 * Sébastien André (Petals Link)
 * Thierry Déjean (Petals Link)
 * Victor Noël (Linagora)
+* Vincent Zurczak (Linagora) - [@vincent-zurczak](https://github.com/vincent-zurczak) - [Blog (EN)](http://vzurczak.wordpress.com) - [Blog (FR)](http://vzurczak2.wordpress.com)
 
 
 # Contributors
