@@ -1,6 +1,8 @@
 /**
- * Copyright (c) Linagora, 2012-2019
+ * Copyright (c) Linagora, 2012-2020
  **/
+
+@import url("font.css");
 
 * {
 	margin: 0;
@@ -8,9 +10,8 @@
 	list-style: none;
 }
 
-
 body {
-	font: @import url("font");
+	font-family: 'Titillium Web';
 }
 
 h1 {
