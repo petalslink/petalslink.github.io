@@ -8,3 +8,8 @@ syntax_highlighter: rouge
 
 safe: true
 lsi: false
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+
