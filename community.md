@@ -17,8 +17,8 @@ menu: "community"
 # Tools
 
 * [Issue Tracker](http://jira.petalslink.com)
-* [Continuous Integration](http://jenkins.petalslink.com)
-* [Sonar Instance](http://sonar.petalslink.com/)
+* [Continuous Integration](https://jenkins-petals.linagora.com)
+* [Sonar Instance](https://sonar-petals.linagora.com/)
 * [Maven Repository](https://repo1.maven.org/maven2/org/ow2/petals/ "Maven Central")
 * [Docker Repository](https://hub.docker.com/r/petals/ "Docker Hub")
 
