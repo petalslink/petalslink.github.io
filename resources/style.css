@@ -39,6 +39,11 @@ img {
 	border: none;
 }
 
+img[alt="GitHub"], img[alt="Twitter"] { 
+	width: 20px; 
+	vertical-align: middle;
+}
+
 p {
 	line-height: 1.6em;
 	text-align: justify;
