@@ -27,13 +27,8 @@ menu: "community"
 
 *Active committers on Petals ESB and related projects.*
 
-* [Alexandre Lagane](https://www.linkedin.com/in/alexandrelagane) (Linagora) - [![GitHub](./resources/images/github_mark_32px.png "GitHub")](https://github.com/alagane)
 * [Bertrand Escudié](https://www.linkedin.com/in/bertrand-escudie-4611732) (Linagora) - [![GitHub](./resources/images/github_mark_32px.png "GitHub")](https://github.com/bescudie)
-* [Christophe Chevalier](https://www.linkedin.com/in/cchevalier-fr) (Linagora) - [![GitHub](./resources/images/github_mark_32px.png "GitHub")](https://github.com/christophechevalier)
 * [Christophe Deneux](https://www.linkedin.com/in/cdeneux/) (Linagora) - [![GitHub](./resources/images/github_mark_32px.png "GitHub")](https://github.com/cdeneux) [![Twitter](./resources/images/twitter_32px.png "Twitter")](https://twitter.com/ChrisDENEUX)
-* [Grégoire Maria](https://www.linkedin.com/in/grégoire-maria-646507150) (Linagora) - [![GitHub](./resources/images/github_mark_32px.png "GitHub")](https://github.com/gregoire31)
-* [Julian Koune](https://www.linkedin.com/in/juliankoune) (Linagora) - [![GitHub](./resources/images/github_mark_32px.png "GitHub")](https://github.com/BanhCam)
-* [Pierre Souquet](https://fr.linkedin.com/in/pierre-souquet-18955528) (Linagora) - [![GitHub](./resources/images/github_mark_32px.png "GitHub")](https://github.com/psouquet)
 
 
 # Former Committers
@@ -42,11 +37,15 @@ menu: "community"
 
 * Adrien Louis (Petals Link)
 * Adrien Ruffie (Petals Link)
+* [Alexandre Lagane](https://www.linkedin.com/in/alexandrelagane) (Linagora) - [![GitHub](./resources/images/github_mark_32px.png "GitHub")](https://github.com/alagane)
 * Anne-Marie Barthe (Petals Link)
 * Charles Casadei (Petals Link)
-* Christophe Hamerling (Linagora) [![GitHub](./resources/images/github_mark_32px.png "GitHub")](https://github.com/chamerling) [![Twitter](./resources/images/twitter_32px.png "Twitter")](https://twitter.com/chamerling) - [Blog](http://chamerling.org)
+* [Christophe Chevalier](https://www.linkedin.com/in/cchevalier-fr) (Linagora) - [![GitHub](./resources/images/github_mark_32px.png "GitHub")](https://github.com/christophechevalier)
+* Christophe Hamerling (Linagora) - [![GitHub](./resources/images/github_mark_32px.png "GitHub")](https://github.com/chamerling) [![Twitter](./resources/images/twitter_32px.png "Twitter")](https://twitter.com/chamerling) - [Blog](http://chamerling.org)
 * Frédéric Gardes (Petals Link)
 * Gaël Blondelle (Petals Link)
+* [Grégoire Maria](https://www.linkedin.com/in/grégoire-maria-646507150) (Linagora) - [![GitHub](./resources/images/github_mark_32px.png "GitHub")](https://github.com/gregoire31)
+* [Julian Koune](https://www.linkedin.com/in/juliankoune) (Linagora) - [![GitHub](./resources/images/github_mark_32px.png "GitHub")](https://github.com/BanhCam)
 * Julien Lesbesguieres (Linagora)
 * Marc Jambert (Petals Link)
 * Mathias Beldame (Petals Link)
@@ -60,6 +59,7 @@ menu: "community"
 * Nicolas Salatgé (Linagora)
 * Olivier Fabre (Petals Link)
 * Patrice Conil (Petals Link)
+* [Pierre Souquet](https://fr.linkedin.com/in/pierre-souquet-18955528) (Linagora) - [![GitHub](./resources/images/github_mark_32px.png "GitHub")](https://github.com/psouquet)
 * Pierre-Yves Gibello (Linagora) - [Blog](http://planet.petalslink.com/home/pygibello/)
 * Roland Naudin (Petals Link)
 * Sandra Trino (Petals Link)

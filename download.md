@@ -6,22 +6,23 @@ menu: "download"
 
 # Latest Stable
 
-Petals 5.2.0 is available as complete packages.  
+Petals 5.3.0 is available as complete packages.  
 They embed everything to get started with Petals ESB.
 
-[Access the last downloads](download/petals-5.2.0.html).
+[Access the last downloads](download/petals-5.3.0.html).
 
 
 # Nightly Builds
 
 |     Version    |                      Description                        |   |   |
 |:--------------:|:-------------------------------------------------------:|:-:|:-:|
-| 5.2.1-SNAPSHOT | The next version of the Petals distribution | [Download](http://repository.ow2.org/nexus/service/local/artifact/maven/content?r=snapshots&g=org.ow2.petals&a=petals-esb-enterprise-edition&v=LATEST&p=zip) | [Change log](https://jira.petalslink.com/secure/IssueNavigator.jspa?mode=hide&requestId=10270) |
-| CP-5.2.1-SNAPSHOT | The next version of the Community Pack of Petals EE | [Download](http://repository.ow2.org/nexus/service/local/artifact/maven/content?r=snapshots&g=org.ow2.petals&a=petals-community-pack&v=LATEST&p=zip) | See the [change log](https://jira.petalslink.com/secure/IssueNavigator.jspa?mode=hide&requestId=10270) of the associated Petals EE |
+| 5.4.0-SNAPSHOT | The next version of the Petals distribution | [Download](http://repository.ow2.org/nexus/service/local/artifact/maven/content?r=snapshots&g=org.ow2.petals&a=petals-esb-enterprise-edition&v=LATEST&p=zip) | [Change log](https://jira.petalslink.com/secure/IssueNavigator.jspa?mode=hide&requestId=10270) |
+| CP-5.4.0-SNAPSHOT | The next version of the Community Pack of Petals EE | [Download](http://repository.ow2.org/nexus/service/local/artifact/maven/content?r=snapshots&g=org.ow2.petals&a=petals-community-pack&v=LATEST&p=zip) | See the [change log](https://jira.petalslink.com/secure/IssueNavigator.jspa?mode=hide&requestId=10270) of the associated Petals EE |
 
 
 # Oldies
 
+- [Access the downloads](download/petals-5.3.0.html) for Petals ESB 5.3.0.
 - [Access the downloads](download/petals-5.2.0.html) for Petals ESB 5.2.0.
 - [Access the downloads](download/petals-5.1.0.html) for Petals ESB 5.1.0.
 - [Access the downloads](download/petals-5.0.0.html) for Petals ESB 5.0.0.
